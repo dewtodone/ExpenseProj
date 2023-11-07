@@ -1,9 +1,1649 @@
-dsf;lkjasdlkjhfa  
-f 
-f
-asd f
-asd
-f 
-as
-df 
-asdf
+(64C:4720) 11/05/23 12:39:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(64C:4720) 11/05/23 12:39:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(64C:4720) 11/05/23 12:39:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 15576
+(64C:4720) 11/05/23 12:39:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(64C:4720) 11/05/23 12:39:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(64C:4720) 11/05/23 12:39:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF65B26B360
+(64C:4720) 11/05/23 12:39:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(64C:4720) 11/05/23 12:39:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 15576
+(64C:4720) 11/05/23 12:39:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(64C:4720) 11/05/23 12:39:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(64C:4720) 11/05/23 12:39:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(64C:4720) 11/05/23 12:39:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF65B26B360
+(64C:4720) 11/05/23 12:39:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(64C:4720) 11/05/23 12:39:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(64C:4720) 11/05/23 12:39:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(64C:4720) 11/05/23 12:39:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(64C:4720) 11/05/23 12:39:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(64C:4720) 11/05/23 12:39:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(64C:4720) 11/05/23 12:39:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(64C:4720) 11/05/23 12:39:06, ERROR ,               mpdwsvc.exe, String at 0000029D82DAF8C0 was not NULL terminated
+(64C:4720) 11/05/23 12:39:06, ACTION,               mpdwsvc.exe, Remote process didn't specify a dump file name
+(64C:4720) 11/05/23 12:39:06, ACTION,               mpdwsvc.exe, MINIDUMP_TYPE: 0x21966
+(64C:4720) 11/05/23 12:39:06, ACTION,               mpdwsvc.exe, Callback type 16 not used
+(64C:4720) 11/05/23 12:39:06, ACTION,               mpdwsvc.exe, Callback type 17 not used
+(64C:4720) 11/05/23 12:39:06, ACTION,               mpdwsvc.exe, Callback type 11 not used
+(64C:4720) 11/05/23 12:39:06, ACTION,               mpdwsvc.exe, Callback type 15 not used
+(64C:4720) 11/05/23 12:39:08, ACTION,               mpdwsvc.exe, Callback type 7 not used
+(64C:4720) 11/05/23 12:39:08, ACTION,               mpdwsvc.exe, MiniDump completed: C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Log\Polybase\dump\SQLDmpr.00000001D772F644.GMT-2023-11-05-07-00-00.dmp
+(64C:4720) 11/05/23 12:39:08, ACTION,               mpdwsvc.exe, Total Buffer pool data pages filtered out: 0 KB
+(64C:4720) 11/05/23 12:39:08, ACTION,               mpdwsvc.exe, Total Hekaton data pages filtered out: 0 KB
+(64C:4720) 11/05/23 12:39:08, ACTION,               mpdwsvc.exe, Total Free memory (from non top level allocators) filtered out: 0 KB
+(64C:4720) 11/05/23 12:39:08, ACTION,               mpdwsvc.exe, Total top level free memory filtered out: 0 KB
+(64C:4720) 11/05/23 12:39:08, ACTION,               mpdwsvc.exe, Total Log pool memory filtered out: 0 KB
+(64C:4720) 11/05/23 12:39:08, ACTION,               mpdwsvc.exe, Should columnstore object pool be included in filtered dump= 0
+(64C:4720) 11/05/23 12:39:08, ACTION,               mpdwsvc.exe, Should columnstore blob cache be included in filtered dump= 0
+(64C:4720) 11/05/23 12:39:08, ACTION,               mpdwsvc.exe, Total columnstore object pool memory filtered out: 0 KB
+(64C:4720) 11/05/23 12:39:08, ACTION,               mpdwsvc.exe, Total columnstore blob cache filtered out: 0 KB
+(64C:4720) 11/05/23 12:39:08, ACTION,               mpdwsvc.exe, Total pages filtered out by bitmap: 0 KB
+(64C:4720) 11/05/23 12:39:08, ACTION,               mpdwsvc.exe, Total file mapped memory filtered out: 0 KB
+(64C:4720) 11/05/23 12:39:08, ACTION,               mpdwsvc.exe, Location of module 'dbghelp.dll' : 'C:\WINDOWS\SYSTEM32\dbghelp.dll'
+(64C:4720) 11/05/23 12:39:08, ACTION,               mpdwsvc.exe, File version of module 'C:\WINDOWS\SYSTEM32\dbghelp.dll' : '6.2:22621.2506'
+(64C:4720) 11/05/23 12:39:08, ACTION,               mpdwsvc.exe, Product version of module 'C:\WINDOWS\SYSTEM32\dbghelp.dll' : '10.0:22621.2506'
+(64C:4720) 11/05/23 12:39:08, ACTION,               mpdwsvc.exe, Location of module 'sqldumper.exe' : 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE'
+(64C:4720) 11/05/23 12:39:08, ACTION,               mpdwsvc.exe, File version of module 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE' : '2019.150:2000.5'
+(64C:4720) 11/05/23 12:39:08, ACTION,               mpdwsvc.exe, Product version of module 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE' : '15.0:2000.5'
+(64C:4720) 11/05/23 12:39:08, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(64C:4720) 11/05/23 12:39:08, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(64C:4720) 11/05/23 12:39:08, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(64C:4720) 11/05/23 12:39:08, ACTION,               mpdwsvc.exe, Creating WER report...
+(64C:4720) 11/05/23 12:39:08, ACTION,               mpdwsvc.exe, Created the report.
+(64C:4720) 11/05/23 12:39:08, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(64C:4720) 11/05/23 12:39:08, ACTION,               mpdwsvc.exe, Submitting WER report...
+(64C:4720) 11/05/23 12:39:18, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(50DC:48FC) 11/05/23 12:39:32, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(50DC:48FC) 11/05/23 12:39:32, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(50DC:48FC) 11/05/23 12:39:32, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 15576
+(50DC:48FC) 11/05/23 12:39:32, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(50DC:48FC) 11/05/23 12:39:32, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(50DC:48FC) 11/05/23 12:39:32, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF65B26B360
+(50DC:48FC) 11/05/23 12:39:32, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(50DC:48FC) 11/05/23 12:39:32, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 15576
+(50DC:48FC) 11/05/23 12:39:32, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(50DC:48FC) 11/05/23 12:39:32, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(50DC:48FC) 11/05/23 12:39:32, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(50DC:48FC) 11/05/23 12:39:32, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF65B26B360
+(50DC:48FC) 11/05/23 12:39:32, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(50DC:48FC) 11/05/23 12:39:32, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(50DC:48FC) 11/05/23 12:39:32, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(50DC:48FC) 11/05/23 12:39:32, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(50DC:48FC) 11/05/23 12:39:32, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(50DC:48FC) 11/05/23 12:39:32, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(50DC:48FC) 11/05/23 12:39:32, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(50DC:48FC) 11/05/23 12:39:32, ERROR ,               mpdwsvc.exe, String at 0000029D81D39FE0 was not NULL terminated
+(50DC:48FC) 11/05/23 12:39:32, ACTION,               mpdwsvc.exe, Not creating an additional dump, because dump for stack signature 00000001D772F644 already exists.
+(50DC:48FC) 11/05/23 12:39:32, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(50DC:48FC) 11/05/23 12:39:32, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(50DC:48FC) 11/05/23 12:39:32, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(50DC:48FC) 11/05/23 12:39:32, ACTION,               mpdwsvc.exe, Creating WER report...
+(50DC:48FC) 11/05/23 12:39:32, ACTION,               mpdwsvc.exe, Created the report.
+(50DC:48FC) 11/05/23 12:39:32, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(50DC:48FC) 11/05/23 12:39:32, ACTION,               mpdwsvc.exe, Submitting WER report...
+(50DC:48FC) 11/05/23 12:39:44, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(3FB8:1AC0) 11/05/23 12:39:59, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(3FB8:1AC0) 11/05/23 12:39:59, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(3FB8:1AC0) 11/05/23 12:39:59, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 15576
+(3FB8:1AC0) 11/05/23 12:39:59, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(3FB8:1AC0) 11/05/23 12:39:59, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(3FB8:1AC0) 11/05/23 12:39:59, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF65B26B360
+(3FB8:1AC0) 11/05/23 12:39:59, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(3FB8:1AC0) 11/05/23 12:39:59, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 15576
+(3FB8:1AC0) 11/05/23 12:39:59, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(3FB8:1AC0) 11/05/23 12:39:59, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(3FB8:1AC0) 11/05/23 12:39:59, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(3FB8:1AC0) 11/05/23 12:39:59, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF65B26B360
+(3FB8:1AC0) 11/05/23 12:39:59, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(3FB8:1AC0) 11/05/23 12:39:59, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(3FB8:1AC0) 11/05/23 12:39:59, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(3FB8:1AC0) 11/05/23 12:39:59, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(3FB8:1AC0) 11/05/23 12:39:59, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(3FB8:1AC0) 11/05/23 12:39:59, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(3FB8:1AC0) 11/05/23 12:39:59, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(3FB8:1AC0) 11/05/23 12:39:59, ACTION,               mpdwsvc.exe, Not creating an additional dump, because dump for stack signature 00000001D772F644 already exists.
+(3FB8:1AC0) 11/05/23 12:39:59, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(3FB8:1AC0) 11/05/23 12:39:59, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(3FB8:1AC0) 11/05/23 12:39:59, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(3FB8:1AC0) 11/05/23 12:39:59, ACTION,               mpdwsvc.exe, Creating WER report...
+(3FB8:1AC0) 11/05/23 12:39:59, ACTION,               mpdwsvc.exe, Created the report.
+(3FB8:1AC0) 11/05/23 12:39:59, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(3FB8:1AC0) 11/05/23 12:39:59, ACTION,               mpdwsvc.exe, Submitting WER report...
+(3FB8:1AC0) 11/05/23 12:40:02, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(5990:4A0) 11/05/23 12:50:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(5990:4A0) 11/05/23 12:50:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(5990:4A0) 11/05/23 12:50:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 16356
+(5990:4A0) 11/05/23 12:50:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(5990:4A0) 11/05/23 12:50:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(5990:4A0) 11/05/23 12:50:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF65B26B360
+(5990:4A0) 11/05/23 12:50:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(5990:4A0) 11/05/23 12:50:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 16356
+(5990:4A0) 11/05/23 12:50:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(5990:4A0) 11/05/23 12:50:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(5990:4A0) 11/05/23 12:50:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(5990:4A0) 11/05/23 12:50:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF65B26B360
+(5990:4A0) 11/05/23 12:50:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(5990:4A0) 11/05/23 12:50:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(5990:4A0) 11/05/23 12:50:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(5990:4A0) 11/05/23 12:50:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(5990:4A0) 11/05/23 12:50:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(5990:4A0) 11/05/23 12:50:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(5990:4A0) 11/05/23 12:50:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(5990:4A0) 11/05/23 12:50:10, ERROR ,               mpdwsvc.exe, String at 000001A902C6D050 was not NULL terminated
+(5990:4A0) 11/05/23 12:50:10, ACTION,               mpdwsvc.exe, Remote process didn't specify a dump file name
+(5990:4A0) 11/05/23 12:50:10, ACTION,               mpdwsvc.exe, MINIDUMP_TYPE: 0x21966
+(5990:4A0) 11/05/23 12:50:10, ACTION,               mpdwsvc.exe, Callback type 16 not used
+(5990:4A0) 11/05/23 12:50:10, ACTION,               mpdwsvc.exe, Callback type 17 not used
+(5990:4A0) 11/05/23 12:50:10, ACTION,               mpdwsvc.exe, Callback type 11 not used
+(5990:4A0) 11/05/23 12:50:10, ACTION,               mpdwsvc.exe, Callback type 15 not used
+(5990:4A0) 11/05/23 12:50:10, ACTION,               mpdwsvc.exe, Callback type 7 not used
+(5990:4A0) 11/05/23 12:50:10, ACTION,               mpdwsvc.exe, MiniDump completed: C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Log\Polybase\dump\SQLDmpr.00000001D772F2B4.GMT-2023-11-05-07-00-00.dmp
+(5990:4A0) 11/05/23 12:50:10, ACTION,               mpdwsvc.exe, Total Buffer pool data pages filtered out: 0 KB
+(5990:4A0) 11/05/23 12:50:10, ACTION,               mpdwsvc.exe, Total Hekaton data pages filtered out: 0 KB
+(5990:4A0) 11/05/23 12:50:10, ACTION,               mpdwsvc.exe, Total Free memory (from non top level allocators) filtered out: 0 KB
+(5990:4A0) 11/05/23 12:50:10, ACTION,               mpdwsvc.exe, Total top level free memory filtered out: 0 KB
+(5990:4A0) 11/05/23 12:50:10, ACTION,               mpdwsvc.exe, Total Log pool memory filtered out: 0 KB
+(5990:4A0) 11/05/23 12:50:10, ACTION,               mpdwsvc.exe, Should columnstore object pool be included in filtered dump= 0
+(5990:4A0) 11/05/23 12:50:10, ACTION,               mpdwsvc.exe, Should columnstore blob cache be included in filtered dump= 0
+(5990:4A0) 11/05/23 12:50:10, ACTION,               mpdwsvc.exe, Total columnstore object pool memory filtered out: 0 KB
+(5990:4A0) 11/05/23 12:50:10, ACTION,               mpdwsvc.exe, Total columnstore blob cache filtered out: 0 KB
+(5990:4A0) 11/05/23 12:50:10, ACTION,               mpdwsvc.exe, Total pages filtered out by bitmap: 0 KB
+(5990:4A0) 11/05/23 12:50:10, ACTION,               mpdwsvc.exe, Total file mapped memory filtered out: 0 KB
+(5990:4A0) 11/05/23 12:50:10, ACTION,               mpdwsvc.exe, Location of module 'dbghelp.dll' : 'C:\WINDOWS\SYSTEM32\dbghelp.dll'
+(5990:4A0) 11/05/23 12:50:10, ACTION,               mpdwsvc.exe, File version of module 'C:\WINDOWS\SYSTEM32\dbghelp.dll' : '6.2:22621.2506'
+(5990:4A0) 11/05/23 12:50:10, ACTION,               mpdwsvc.exe, Product version of module 'C:\WINDOWS\SYSTEM32\dbghelp.dll' : '10.0:22621.2506'
+(5990:4A0) 11/05/23 12:50:10, ACTION,               mpdwsvc.exe, Location of module 'sqldumper.exe' : 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE'
+(5990:4A0) 11/05/23 12:50:10, ACTION,               mpdwsvc.exe, File version of module 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE' : '2019.150:2000.5'
+(5990:4A0) 11/05/23 12:50:10, ACTION,               mpdwsvc.exe, Product version of module 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE' : '15.0:2000.5'
+(5990:4A0) 11/05/23 12:50:10, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(5990:4A0) 11/05/23 12:50:10, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(5990:4A0) 11/05/23 12:50:10, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(5990:4A0) 11/05/23 12:50:10, ACTION,               mpdwsvc.exe, Creating WER report...
+(5990:4A0) 11/05/23 12:50:11, ACTION,               mpdwsvc.exe, Created the report.
+(5990:4A0) 11/05/23 12:50:11, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(5990:4A0) 11/05/23 12:50:11, ACTION,               mpdwsvc.exe, Submitting WER report...
+(5990:4A0) 11/05/23 12:50:13, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(2F20:2384) 11/05/23 12:50:13, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(2F20:2384) 11/05/23 12:50:13, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(2F20:2384) 11/05/23 12:50:13, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 16356
+(2F20:2384) 11/05/23 12:50:13, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(2F20:2384) 11/05/23 12:50:13, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(2F20:2384) 11/05/23 12:50:13, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF65B26B360
+(2F20:2384) 11/05/23 12:50:13, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(2F20:2384) 11/05/23 12:50:13, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 16356
+(2F20:2384) 11/05/23 12:50:13, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(2F20:2384) 11/05/23 12:50:13, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(2F20:2384) 11/05/23 12:50:13, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(2F20:2384) 11/05/23 12:50:13, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF65B26B360
+(2F20:2384) 11/05/23 12:50:13, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(2F20:2384) 11/05/23 12:50:13, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(2F20:2384) 11/05/23 12:50:13, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(2F20:2384) 11/05/23 12:50:13, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(2F20:2384) 11/05/23 12:50:13, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(2F20:2384) 11/05/23 12:50:13, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(2F20:2384) 11/05/23 12:50:13, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(2F20:2384) 11/05/23 12:50:13, ACTION,               mpdwsvc.exe, Not creating an additional dump, because dump for stack signature 00000001D772F2B4 already exists.
+(2F20:2384) 11/05/23 12:50:13, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(2F20:2384) 11/05/23 12:50:13, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(2F20:2384) 11/05/23 12:50:13, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(2F20:2384) 11/05/23 12:50:13, ACTION,               mpdwsvc.exe, Creating WER report...
+(2F20:2384) 11/05/23 12:50:13, ACTION,               mpdwsvc.exe, Created the report.
+(2F20:2384) 11/05/23 12:50:13, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(2F20:2384) 11/05/23 12:50:13, ACTION,               mpdwsvc.exe, Submitting WER report...
+(2F20:2384) 11/05/23 12:50:16, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(4F28:411C) 11/05/23 12:50:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(4F28:411C) 11/05/23 12:50:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(4F28:411C) 11/05/23 12:50:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 16356
+(4F28:411C) 11/05/23 12:50:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(4F28:411C) 11/05/23 12:50:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(4F28:411C) 11/05/23 12:50:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF65B26B360
+(4F28:411C) 11/05/23 12:50:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(4F28:411C) 11/05/23 12:50:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 16356
+(4F28:411C) 11/05/23 12:50:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(4F28:411C) 11/05/23 12:50:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(4F28:411C) 11/05/23 12:50:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(4F28:411C) 11/05/23 12:50:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF65B26B360
+(4F28:411C) 11/05/23 12:50:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(4F28:411C) 11/05/23 12:50:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(4F28:411C) 11/05/23 12:50:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(4F28:411C) 11/05/23 12:50:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(4F28:411C) 11/05/23 12:50:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(4F28:411C) 11/05/23 12:50:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(4F28:411C) 11/05/23 12:50:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(4F28:411C) 11/05/23 12:50:31, ACTION,               mpdwsvc.exe, Not creating an additional dump, because dump for stack signature 00000001D772F2B4 already exists.
+(4F28:411C) 11/05/23 12:50:31, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(4F28:411C) 11/05/23 12:50:31, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(4F28:411C) 11/05/23 12:50:31, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(4F28:411C) 11/05/23 12:50:31, ACTION,               mpdwsvc.exe, Creating WER report...
+(4F28:411C) 11/05/23 12:50:31, ACTION,               mpdwsvc.exe, Created the report.
+(4F28:411C) 11/05/23 12:50:31, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(4F28:411C) 11/05/23 12:50:31, ACTION,               mpdwsvc.exe, Submitting WER report...
+(4F28:411C) 11/05/23 12:50:34, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(4B44:42D8) 11/05/23 13:01:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(4B44:42D8) 11/05/23 13:01:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(4B44:42D8) 11/05/23 13:01:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 4336
+(4B44:42D8) 11/05/23 13:01:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(4B44:42D8) 11/05/23 13:01:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(4B44:42D8) 11/05/23 13:01:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF65B26B360
+(4B44:42D8) 11/05/23 13:01:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(4B44:42D8) 11/05/23 13:01:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 4336
+(4B44:42D8) 11/05/23 13:01:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(4B44:42D8) 11/05/23 13:01:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(4B44:42D8) 11/05/23 13:01:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(4B44:42D8) 11/05/23 13:01:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF65B26B360
+(4B44:42D8) 11/05/23 13:01:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(4B44:42D8) 11/05/23 13:01:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(4B44:42D8) 11/05/23 13:01:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(4B44:42D8) 11/05/23 13:01:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(4B44:42D8) 11/05/23 13:01:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(4B44:42D8) 11/05/23 13:01:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(4B44:42D8) 11/05/23 13:01:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(4B44:42D8) 11/05/23 13:01:14, ERROR ,               mpdwsvc.exe, String at 000001B9843D4CA0 was not NULL terminated
+(4B44:42D8) 11/05/23 13:01:14, ACTION,               mpdwsvc.exe, Remote process didn't specify a dump file name
+(4B44:42D8) 11/05/23 13:01:14, ACTION,               mpdwsvc.exe, MINIDUMP_TYPE: 0x21966
+(4B44:42D8) 11/05/23 13:01:14, ACTION,               mpdwsvc.exe, Callback type 16 not used
+(4B44:42D8) 11/05/23 13:01:14, ACTION,               mpdwsvc.exe, Callback type 17 not used
+(4B44:42D8) 11/05/23 13:01:14, ACTION,               mpdwsvc.exe, Callback type 11 not used
+(4B44:42D8) 11/05/23 13:01:14, ACTION,               mpdwsvc.exe, Callback type 15 not used
+(4B44:42D8) 11/05/23 13:01:15, ACTION,               mpdwsvc.exe, Callback type 7 not used
+(4B44:42D8) 11/05/23 13:01:15, ACTION,               mpdwsvc.exe, MiniDump completed: C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Log\Polybase\dump\SQLDmpr.00000001D77394E4.GMT-2023-11-05-08-00-00.dmp
+(4B44:42D8) 11/05/23 13:01:15, ACTION,               mpdwsvc.exe, Total Buffer pool data pages filtered out: 0 KB
+(4B44:42D8) 11/05/23 13:01:15, ACTION,               mpdwsvc.exe, Total Hekaton data pages filtered out: 0 KB
+(4B44:42D8) 11/05/23 13:01:15, ACTION,               mpdwsvc.exe, Total Free memory (from non top level allocators) filtered out: 0 KB
+(4B44:42D8) 11/05/23 13:01:15, ACTION,               mpdwsvc.exe, Total top level free memory filtered out: 0 KB
+(4B44:42D8) 11/05/23 13:01:15, ACTION,               mpdwsvc.exe, Total Log pool memory filtered out: 0 KB
+(4B44:42D8) 11/05/23 13:01:15, ACTION,               mpdwsvc.exe, Should columnstore object pool be included in filtered dump= 0
+(4B44:42D8) 11/05/23 13:01:15, ACTION,               mpdwsvc.exe, Should columnstore blob cache be included in filtered dump= 0
+(4B44:42D8) 11/05/23 13:01:15, ACTION,               mpdwsvc.exe, Total columnstore object pool memory filtered out: 0 KB
+(4B44:42D8) 11/05/23 13:01:15, ACTION,               mpdwsvc.exe, Total columnstore blob cache filtered out: 0 KB
+(4B44:42D8) 11/05/23 13:01:15, ACTION,               mpdwsvc.exe, Total pages filtered out by bitmap: 0 KB
+(4B44:42D8) 11/05/23 13:01:15, ACTION,               mpdwsvc.exe, Total file mapped memory filtered out: 0 KB
+(4B44:42D8) 11/05/23 13:01:15, ACTION,               mpdwsvc.exe, Location of module 'dbghelp.dll' : 'C:\WINDOWS\SYSTEM32\dbghelp.dll'
+(4B44:42D8) 11/05/23 13:01:15, ACTION,               mpdwsvc.exe, File version of module 'C:\WINDOWS\SYSTEM32\dbghelp.dll' : '6.2:22621.2506'
+(4B44:42D8) 11/05/23 13:01:15, ACTION,               mpdwsvc.exe, Product version of module 'C:\WINDOWS\SYSTEM32\dbghelp.dll' : '10.0:22621.2506'
+(4B44:42D8) 11/05/23 13:01:15, ACTION,               mpdwsvc.exe, Location of module 'sqldumper.exe' : 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE'
+(4B44:42D8) 11/05/23 13:01:15, ACTION,               mpdwsvc.exe, File version of module 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE' : '2019.150:2000.5'
+(4B44:42D8) 11/05/23 13:01:15, ACTION,               mpdwsvc.exe, Product version of module 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE' : '15.0:2000.5'
+(4B44:42D8) 11/05/23 13:01:15, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(4B44:42D8) 11/05/23 13:01:15, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(4B44:42D8) 11/05/23 13:01:15, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(4B44:42D8) 11/05/23 13:01:15, ACTION,               mpdwsvc.exe, Creating WER report...
+(4B44:42D8) 11/05/23 13:01:15, ACTION,               mpdwsvc.exe, Created the report.
+(4B44:42D8) 11/05/23 13:01:15, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(4B44:42D8) 11/05/23 13:01:15, ACTION,               mpdwsvc.exe, Submitting WER report...
+(4B44:42D8) 11/05/23 13:01:28, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(47E0:2620) 11/05/23 13:01:42, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(47E0:2620) 11/05/23 13:01:42, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(47E0:2620) 11/05/23 13:01:42, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 4336
+(47E0:2620) 11/05/23 13:01:42, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(47E0:2620) 11/05/23 13:01:42, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(47E0:2620) 11/05/23 13:01:42, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF65B26B360
+(47E0:2620) 11/05/23 13:01:42, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(47E0:2620) 11/05/23 13:01:42, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 4336
+(47E0:2620) 11/05/23 13:01:42, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(47E0:2620) 11/05/23 13:01:42, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(47E0:2620) 11/05/23 13:01:42, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(47E0:2620) 11/05/23 13:01:42, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF65B26B360
+(47E0:2620) 11/05/23 13:01:42, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(47E0:2620) 11/05/23 13:01:42, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(47E0:2620) 11/05/23 13:01:42, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(47E0:2620) 11/05/23 13:01:42, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(47E0:2620) 11/05/23 13:01:42, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(47E0:2620) 11/05/23 13:01:42, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(47E0:2620) 11/05/23 13:01:42, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(47E0:2620) 11/05/23 13:01:42, ERROR ,               mpdwsvc.exe, String at 000001B9833A2EF0 was not NULL terminated
+(47E0:2620) 11/05/23 13:01:42, ACTION,               mpdwsvc.exe, Not creating an additional dump, because dump for stack signature 00000001D77394E4 already exists.
+(47E0:2620) 11/05/23 13:01:42, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(47E0:2620) 11/05/23 13:01:42, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(47E0:2620) 11/05/23 13:01:42, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(47E0:2620) 11/05/23 13:01:42, ACTION,               mpdwsvc.exe, Creating WER report...
+(47E0:2620) 11/05/23 13:01:42, ACTION,               mpdwsvc.exe, Created the report.
+(47E0:2620) 11/05/23 13:01:42, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(47E0:2620) 11/05/23 13:01:42, ACTION,               mpdwsvc.exe, Submitting WER report...
+(47E0:2620) 11/05/23 13:01:51, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(4D34:2410) 11/05/23 13:01:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(4D34:2410) 11/05/23 13:01:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(4D34:2410) 11/05/23 13:01:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 4336
+(4D34:2410) 11/05/23 13:01:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(4D34:2410) 11/05/23 13:01:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(4D34:2410) 11/05/23 13:01:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF65B26B360
+(4D34:2410) 11/05/23 13:01:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(4D34:2410) 11/05/23 13:01:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 4336
+(4D34:2410) 11/05/23 13:01:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(4D34:2410) 11/05/23 13:01:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(4D34:2410) 11/05/23 13:01:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(4D34:2410) 11/05/23 13:01:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF65B26B360
+(4D34:2410) 11/05/23 13:01:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(4D34:2410) 11/05/23 13:01:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(4D34:2410) 11/05/23 13:01:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(4D34:2410) 11/05/23 13:01:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(4D34:2410) 11/05/23 13:01:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(4D34:2410) 11/05/23 13:01:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(4D34:2410) 11/05/23 13:01:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(4D34:2410) 11/05/23 13:01:51, ACTION,               mpdwsvc.exe, Not creating an additional dump, because dump for stack signature 00000001D77394E4 already exists.
+(4D34:2410) 11/05/23 13:01:51, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(4D34:2410) 11/05/23 13:01:51, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(4D34:2410) 11/05/23 13:01:51, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(4D34:2410) 11/05/23 13:01:51, ACTION,               mpdwsvc.exe, Creating WER report...
+(4D34:2410) 11/05/23 13:01:51, ACTION,               mpdwsvc.exe, Created the report.
+(4D34:2410) 11/05/23 13:01:51, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(4D34:2410) 11/05/23 13:01:51, ACTION,               mpdwsvc.exe, Submitting WER report...
+(4D34:2410) 11/05/23 13:01:54, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(168C:10C8) 11/05/23 17:09:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(168C:10C8) 11/05/23 17:09:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(168C:10C8) 11/05/23 17:09:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 324
+(168C:10C8) 11/05/23 17:09:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(168C:10C8) 11/05/23 17:09:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(168C:10C8) 11/05/23 17:09:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF65B26B360
+(168C:10C8) 11/05/23 17:09:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(168C:10C8) 11/05/23 17:09:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 324
+(168C:10C8) 11/05/23 17:09:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(168C:10C8) 11/05/23 17:09:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(168C:10C8) 11/05/23 17:09:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(168C:10C8) 11/05/23 17:09:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF65B26B360
+(168C:10C8) 11/05/23 17:09:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(168C:10C8) 11/05/23 17:09:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(168C:10C8) 11/05/23 17:09:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(168C:10C8) 11/05/23 17:09:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(168C:10C8) 11/05/23 17:09:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(168C:10C8) 11/05/23 17:09:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(168C:10C8) 11/05/23 17:09:10, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(168C:10C8) 11/05/23 17:09:10, ERROR ,               mpdwsvc.exe, String at 0000026C02B41890 was not NULL terminated
+(168C:10C8) 11/05/23 17:09:10, ACTION,               mpdwsvc.exe, Remote process didn't specify a dump file name
+(168C:10C8) 11/05/23 17:09:10, ACTION,               mpdwsvc.exe, MINIDUMP_TYPE: 0x21966
+(168C:10C8) 11/05/23 17:09:10, ACTION,               mpdwsvc.exe, Callback type 16 not used
+(168C:10C8) 11/05/23 17:09:10, ACTION,               mpdwsvc.exe, Callback type 17 not used
+(168C:10C8) 11/05/23 17:09:10, ACTION,               mpdwsvc.exe, Callback type 11 not used
+(168C:10C8) 11/05/23 17:09:10, ACTION,               mpdwsvc.exe, Callback type 15 not used
+(168C:10C8) 11/05/23 17:09:11, ACTION,               mpdwsvc.exe, Callback type 7 not used
+(168C:10C8) 11/05/23 17:09:11, ACTION,               mpdwsvc.exe, MiniDump completed: C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Log\Polybase\dump\SQLDmpr.00000000DDF9B004.GMT-2023-11-05-12-00-00.dmp
+(168C:10C8) 11/05/23 17:09:11, ACTION,               mpdwsvc.exe, Total Buffer pool data pages filtered out: 0 KB
+(168C:10C8) 11/05/23 17:09:11, ACTION,               mpdwsvc.exe, Total Hekaton data pages filtered out: 0 KB
+(168C:10C8) 11/05/23 17:09:11, ACTION,               mpdwsvc.exe, Total Free memory (from non top level allocators) filtered out: 0 KB
+(168C:10C8) 11/05/23 17:09:11, ACTION,               mpdwsvc.exe, Total top level free memory filtered out: 0 KB
+(168C:10C8) 11/05/23 17:09:11, ACTION,               mpdwsvc.exe, Total Log pool memory filtered out: 0 KB
+(168C:10C8) 11/05/23 17:09:11, ACTION,               mpdwsvc.exe, Should columnstore object pool be included in filtered dump= 0
+(168C:10C8) 11/05/23 17:09:11, ACTION,               mpdwsvc.exe, Should columnstore blob cache be included in filtered dump= 0
+(168C:10C8) 11/05/23 17:09:11, ACTION,               mpdwsvc.exe, Total columnstore object pool memory filtered out: 0 KB
+(168C:10C8) 11/05/23 17:09:11, ACTION,               mpdwsvc.exe, Total columnstore blob cache filtered out: 0 KB
+(168C:10C8) 11/05/23 17:09:11, ACTION,               mpdwsvc.exe, Total pages filtered out by bitmap: 0 KB
+(168C:10C8) 11/05/23 17:09:11, ACTION,               mpdwsvc.exe, Total file mapped memory filtered out: 0 KB
+(168C:10C8) 11/05/23 17:09:11, ACTION,               mpdwsvc.exe, Location of module 'dbghelp.dll' : 'C:\WINDOWS\SYSTEM32\dbghelp.dll'
+(168C:10C8) 11/05/23 17:09:11, ACTION,               mpdwsvc.exe, File version of module 'C:\WINDOWS\SYSTEM32\dbghelp.dll' : '6.2:22621.2506'
+(168C:10C8) 11/05/23 17:09:11, ACTION,               mpdwsvc.exe, Product version of module 'C:\WINDOWS\SYSTEM32\dbghelp.dll' : '10.0:22621.2506'
+(168C:10C8) 11/05/23 17:09:11, ACTION,               mpdwsvc.exe, Location of module 'sqldumper.exe' : 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE'
+(168C:10C8) 11/05/23 17:09:11, ACTION,               mpdwsvc.exe, File version of module 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE' : '2019.150:2000.5'
+(168C:10C8) 11/05/23 17:09:11, ACTION,               mpdwsvc.exe, Product version of module 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE' : '15.0:2000.5'
+(168C:10C8) 11/05/23 17:09:11, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(168C:10C8) 11/05/23 17:09:11, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(168C:10C8) 11/05/23 17:09:11, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(168C:10C8) 11/05/23 17:09:11, ACTION,               mpdwsvc.exe, Creating WER report...
+(168C:10C8) 11/05/23 17:09:11, ACTION,               mpdwsvc.exe, Created the report.
+(168C:10C8) 11/05/23 17:09:11, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(168C:10C8) 11/05/23 17:09:11, ACTION,               mpdwsvc.exe, Submitting WER report...
+(168C:10C8) 11/05/23 17:09:22, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(5FAC:4A88) 11/05/23 17:09:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(5FAC:4A88) 11/05/23 17:09:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(5FAC:4A88) 11/05/23 17:09:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 324
+(5FAC:4A88) 11/05/23 17:09:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(5FAC:4A88) 11/05/23 17:09:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(5FAC:4A88) 11/05/23 17:09:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF65B26B360
+(5FAC:4A88) 11/05/23 17:09:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(5FAC:4A88) 11/05/23 17:09:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 324
+(5FAC:4A88) 11/05/23 17:09:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(5FAC:4A88) 11/05/23 17:09:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(5FAC:4A88) 11/05/23 17:09:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(5FAC:4A88) 11/05/23 17:09:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF65B26B360
+(5FAC:4A88) 11/05/23 17:09:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(5FAC:4A88) 11/05/23 17:09:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(5FAC:4A88) 11/05/23 17:09:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(5FAC:4A88) 11/05/23 17:09:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(5FAC:4A88) 11/05/23 17:09:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(5FAC:4A88) 11/05/23 17:09:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(5FAC:4A88) 11/05/23 17:09:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(5FAC:4A88) 11/05/23 17:09:37, ERROR ,               mpdwsvc.exe, String at 0000026C01AA0D30 was not NULL terminated
+(5FAC:4A88) 11/05/23 17:09:37, ACTION,               mpdwsvc.exe, Not creating an additional dump, because dump for stack signature 00000000DDF9B004 already exists.
+(5FAC:4A88) 11/05/23 17:09:37, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(5FAC:4A88) 11/05/23 17:09:37, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(5FAC:4A88) 11/05/23 17:09:37, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(5FAC:4A88) 11/05/23 17:09:37, ACTION,               mpdwsvc.exe, Creating WER report...
+(5FAC:4A88) 11/05/23 17:09:37, ACTION,               mpdwsvc.exe, Created the report.
+(5FAC:4A88) 11/05/23 17:09:37, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(5FAC:4A88) 11/05/23 17:09:37, ACTION,               mpdwsvc.exe, Submitting WER report...
+(5FAC:4A88) 11/05/23 17:09:47, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(38A4:3258) 11/05/23 17:09:47, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(38A4:3258) 11/05/23 17:09:47, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(38A4:3258) 11/05/23 17:09:47, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 324
+(38A4:3258) 11/05/23 17:09:47, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(38A4:3258) 11/05/23 17:09:47, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(38A4:3258) 11/05/23 17:09:47, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF65B26B360
+(38A4:3258) 11/05/23 17:09:47, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(38A4:3258) 11/05/23 17:09:47, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 324
+(38A4:3258) 11/05/23 17:09:47, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(38A4:3258) 11/05/23 17:09:47, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(38A4:3258) 11/05/23 17:09:47, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(38A4:3258) 11/05/23 17:09:47, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF65B26B360
+(38A4:3258) 11/05/23 17:09:47, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(38A4:3258) 11/05/23 17:09:47, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(38A4:3258) 11/05/23 17:09:47, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(38A4:3258) 11/05/23 17:09:47, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(38A4:3258) 11/05/23 17:09:47, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(38A4:3258) 11/05/23 17:09:47, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(38A4:3258) 11/05/23 17:09:47, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(38A4:3258) 11/05/23 17:09:47, ACTION,               mpdwsvc.exe, Not creating an additional dump, because dump for stack signature 00000000DDF9B004 already exists.
+(38A4:3258) 11/05/23 17:09:47, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(38A4:3258) 11/05/23 17:09:47, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(38A4:3258) 11/05/23 17:09:47, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(38A4:3258) 11/05/23 17:09:47, ACTION,               mpdwsvc.exe, Creating WER report...
+(38A4:3258) 11/05/23 17:09:47, ACTION,               mpdwsvc.exe, Created the report.
+(38A4:3258) 11/05/23 17:09:47, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(38A4:3258) 11/05/23 17:09:47, ACTION,               mpdwsvc.exe, Submitting WER report...
+(38A4:3258) 11/05/23 17:09:49, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(3260:4514) 11/05/23 17:20:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(3260:4514) 11/05/23 17:20:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(3260:4514) 11/05/23 17:20:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 15648
+(3260:4514) 11/05/23 17:20:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(3260:4514) 11/05/23 17:20:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(3260:4514) 11/05/23 17:20:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF65B26B360
+(3260:4514) 11/05/23 17:20:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(3260:4514) 11/05/23 17:20:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 15648
+(3260:4514) 11/05/23 17:20:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(3260:4514) 11/05/23 17:20:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(3260:4514) 11/05/23 17:20:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(3260:4514) 11/05/23 17:20:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF65B26B360
+(3260:4514) 11/05/23 17:20:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(3260:4514) 11/05/23 17:20:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(3260:4514) 11/05/23 17:20:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(3260:4514) 11/05/23 17:20:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(3260:4514) 11/05/23 17:20:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(3260:4514) 11/05/23 17:20:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(3260:4514) 11/05/23 17:20:14, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(3260:4514) 11/05/23 17:20:14, ERROR ,               mpdwsvc.exe, String at 0000025E04505270 was not NULL terminated
+(3260:4514) 11/05/23 17:20:14, ACTION,               mpdwsvc.exe, Remote process didn't specify a dump file name
+(3260:4514) 11/05/23 17:20:14, ACTION,               mpdwsvc.exe, MINIDUMP_TYPE: 0x21966
+(3260:4514) 11/05/23 17:20:14, ACTION,               mpdwsvc.exe, Callback type 16 not used
+(3260:4514) 11/05/23 17:20:14, ACTION,               mpdwsvc.exe, Callback type 17 not used
+(3260:4514) 11/05/23 17:20:14, ACTION,               mpdwsvc.exe, Callback type 11 not used
+(3260:4514) 11/05/23 17:20:14, ACTION,               mpdwsvc.exe, Callback type 15 not used
+(3260:4514) 11/05/23 17:20:15, ACTION,               mpdwsvc.exe, Callback type 7 not used
+(3260:4514) 11/05/23 17:20:15, ACTION,               mpdwsvc.exe, MiniDump completed: C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Log\Polybase\dump\SQLDmpr.000000019161C9B0.GMT-2023-11-05-12-00-00.dmp
+(3260:4514) 11/05/23 17:20:15, ACTION,               mpdwsvc.exe, Total Buffer pool data pages filtered out: 0 KB
+(3260:4514) 11/05/23 17:20:15, ACTION,               mpdwsvc.exe, Total Hekaton data pages filtered out: 0 KB
+(3260:4514) 11/05/23 17:20:15, ACTION,               mpdwsvc.exe, Total Free memory (from non top level allocators) filtered out: 0 KB
+(3260:4514) 11/05/23 17:20:15, ACTION,               mpdwsvc.exe, Total top level free memory filtered out: 0 KB
+(3260:4514) 11/05/23 17:20:15, ACTION,               mpdwsvc.exe, Total Log pool memory filtered out: 0 KB
+(3260:4514) 11/05/23 17:20:15, ACTION,               mpdwsvc.exe, Should columnstore object pool be included in filtered dump= 0
+(3260:4514) 11/05/23 17:20:15, ACTION,               mpdwsvc.exe, Should columnstore blob cache be included in filtered dump= 0
+(3260:4514) 11/05/23 17:20:15, ACTION,               mpdwsvc.exe, Total columnstore object pool memory filtered out: 0 KB
+(3260:4514) 11/05/23 17:20:15, ACTION,               mpdwsvc.exe, Total columnstore blob cache filtered out: 0 KB
+(3260:4514) 11/05/23 17:20:15, ACTION,               mpdwsvc.exe, Total pages filtered out by bitmap: 0 KB
+(3260:4514) 11/05/23 17:20:15, ACTION,               mpdwsvc.exe, Total file mapped memory filtered out: 0 KB
+(3260:4514) 11/05/23 17:20:15, ACTION,               mpdwsvc.exe, Location of module 'dbghelp.dll' : 'C:\WINDOWS\SYSTEM32\dbghelp.dll'
+(3260:4514) 11/05/23 17:20:15, ACTION,               mpdwsvc.exe, File version of module 'C:\WINDOWS\SYSTEM32\dbghelp.dll' : '6.2:22621.2506'
+(3260:4514) 11/05/23 17:20:15, ACTION,               mpdwsvc.exe, Product version of module 'C:\WINDOWS\SYSTEM32\dbghelp.dll' : '10.0:22621.2506'
+(3260:4514) 11/05/23 17:20:15, ACTION,               mpdwsvc.exe, Location of module 'sqldumper.exe' : 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE'
+(3260:4514) 11/05/23 17:20:15, ACTION,               mpdwsvc.exe, File version of module 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE' : '2019.150:2000.5'
+(3260:4514) 11/05/23 17:20:15, ACTION,               mpdwsvc.exe, Product version of module 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE' : '15.0:2000.5'
+(3260:4514) 11/05/23 17:20:15, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(3260:4514) 11/05/23 17:20:15, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(3260:4514) 11/05/23 17:20:15, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(3260:4514) 11/05/23 17:20:15, ACTION,               mpdwsvc.exe, Creating WER report...
+(3260:4514) 11/05/23 17:20:15, ACTION,               mpdwsvc.exe, Created the report.
+(3260:4514) 11/05/23 17:20:15, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(3260:4514) 11/05/23 17:20:15, ACTION,               mpdwsvc.exe, Submitting WER report...
+(3260:4514) 11/05/23 17:20:27, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(40EC:5344) 11/05/23 17:20:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(40EC:5344) 11/05/23 17:20:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(40EC:5344) 11/05/23 17:20:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 15648
+(40EC:5344) 11/05/23 17:20:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(40EC:5344) 11/05/23 17:20:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(40EC:5344) 11/05/23 17:20:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF65B26B360
+(40EC:5344) 11/05/23 17:20:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(40EC:5344) 11/05/23 17:20:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 15648
+(40EC:5344) 11/05/23 17:20:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(40EC:5344) 11/05/23 17:20:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(40EC:5344) 11/05/23 17:20:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(40EC:5344) 11/05/23 17:20:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF65B26B360
+(40EC:5344) 11/05/23 17:20:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(40EC:5344) 11/05/23 17:20:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(40EC:5344) 11/05/23 17:20:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(40EC:5344) 11/05/23 17:20:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(40EC:5344) 11/05/23 17:20:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(40EC:5344) 11/05/23 17:20:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(40EC:5344) 11/05/23 17:20:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(40EC:5344) 11/05/23 17:20:41, ERROR ,               mpdwsvc.exe, String at 0000025E04505270 was not NULL terminated
+(40EC:5344) 11/05/23 17:20:41, ACTION,               mpdwsvc.exe, Not creating an additional dump, because dump for stack signature 000000019161C9B0 already exists.
+(40EC:5344) 11/05/23 17:20:41, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(40EC:5344) 11/05/23 17:20:41, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(40EC:5344) 11/05/23 17:20:41, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(40EC:5344) 11/05/23 17:20:41, ACTION,               mpdwsvc.exe, Creating WER report...
+(40EC:5344) 11/05/23 17:20:41, ACTION,               mpdwsvc.exe, Created the report.
+(40EC:5344) 11/05/23 17:20:41, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(40EC:5344) 11/05/23 17:20:41, ACTION,               mpdwsvc.exe, Submitting WER report...
+(40EC:5344) 11/05/23 17:20:51, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(3F64:2344) 11/05/23 17:20:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(3F64:2344) 11/05/23 17:20:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(3F64:2344) 11/05/23 17:20:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 15648
+(3F64:2344) 11/05/23 17:20:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(3F64:2344) 11/05/23 17:20:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(3F64:2344) 11/05/23 17:20:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF65B26B360
+(3F64:2344) 11/05/23 17:20:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(3F64:2344) 11/05/23 17:20:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 15648
+(3F64:2344) 11/05/23 17:20:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(3F64:2344) 11/05/23 17:20:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(3F64:2344) 11/05/23 17:20:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(3F64:2344) 11/05/23 17:20:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF65B26B360
+(3F64:2344) 11/05/23 17:20:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(3F64:2344) 11/05/23 17:20:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(3F64:2344) 11/05/23 17:20:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(3F64:2344) 11/05/23 17:20:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(3F64:2344) 11/05/23 17:20:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(3F64:2344) 11/05/23 17:20:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(3F64:2344) 11/05/23 17:20:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(3F64:2344) 11/05/23 17:20:51, ACTION,               mpdwsvc.exe, Not creating an additional dump, because dump for stack signature 000000019161C9B0 already exists.
+(3F64:2344) 11/05/23 17:20:51, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(3F64:2344) 11/05/23 17:20:51, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(3F64:2344) 11/05/23 17:20:51, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(3F64:2344) 11/05/23 17:20:51, ACTION,               mpdwsvc.exe, Creating WER report...
+(3F64:2344) 11/05/23 17:20:51, ACTION,               mpdwsvc.exe, Created the report.
+(3F64:2344) 11/05/23 17:20:51, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(3F64:2344) 11/05/23 17:20:51, ACTION,               mpdwsvc.exe, Submitting WER report...
+(3F64:2344) 11/05/23 17:20:54, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(4ADC:2F80) 11/05/23 17:31:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(4ADC:2F80) 11/05/23 17:31:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(4ADC:2F80) 11/05/23 17:31:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 1180
+(4ADC:2F80) 11/05/23 17:31:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(4ADC:2F80) 11/05/23 17:31:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(4ADC:2F80) 11/05/23 17:31:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF65B26B360
+(4ADC:2F80) 11/05/23 17:31:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(4ADC:2F80) 11/05/23 17:31:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 1180
+(4ADC:2F80) 11/05/23 17:31:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(4ADC:2F80) 11/05/23 17:31:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(4ADC:2F80) 11/05/23 17:31:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(4ADC:2F80) 11/05/23 17:31:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF65B26B360
+(4ADC:2F80) 11/05/23 17:31:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(4ADC:2F80) 11/05/23 17:31:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(4ADC:2F80) 11/05/23 17:31:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(4ADC:2F80) 11/05/23 17:31:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(4ADC:2F80) 11/05/23 17:31:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(4ADC:2F80) 11/05/23 17:31:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(4ADC:2F80) 11/05/23 17:31:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(4ADC:2F80) 11/05/23 17:31:18, ERROR ,               mpdwsvc.exe, String at 0000027F84742FE0 was not NULL terminated
+(4ADC:2F80) 11/05/23 17:31:18, ACTION,               mpdwsvc.exe, Remote process didn't specify a dump file name
+(4ADC:2F80) 11/05/23 17:31:18, ACTION,               mpdwsvc.exe, MINIDUMP_TYPE: 0x21966
+(4ADC:2F80) 11/05/23 17:31:18, ACTION,               mpdwsvc.exe, Callback type 16 not used
+(4ADC:2F80) 11/05/23 17:31:18, ACTION,               mpdwsvc.exe, Callback type 17 not used
+(4ADC:2F80) 11/05/23 17:31:18, ACTION,               mpdwsvc.exe, Callback type 11 not used
+(4ADC:2F80) 11/05/23 17:31:18, ACTION,               mpdwsvc.exe, Callback type 15 not used
+(4ADC:2F80) 11/05/23 17:31:19, ACTION,               mpdwsvc.exe, Callback type 7 not used
+(4ADC:2F80) 11/05/23 17:31:19, ACTION,               mpdwsvc.exe, MiniDump completed: C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Log\Polybase\dump\SQLDmpr.000000016238BCB4.GMT-2023-11-05-12-00-00.dmp
+(4ADC:2F80) 11/05/23 17:31:19, ACTION,               mpdwsvc.exe, Total Buffer pool data pages filtered out: 0 KB
+(4ADC:2F80) 11/05/23 17:31:19, ACTION,               mpdwsvc.exe, Total Hekaton data pages filtered out: 0 KB
+(4ADC:2F80) 11/05/23 17:31:19, ACTION,               mpdwsvc.exe, Total Free memory (from non top level allocators) filtered out: 0 KB
+(4ADC:2F80) 11/05/23 17:31:19, ACTION,               mpdwsvc.exe, Total top level free memory filtered out: 0 KB
+(4ADC:2F80) 11/05/23 17:31:19, ACTION,               mpdwsvc.exe, Total Log pool memory filtered out: 0 KB
+(4ADC:2F80) 11/05/23 17:31:19, ACTION,               mpdwsvc.exe, Should columnstore object pool be included in filtered dump= 0
+(4ADC:2F80) 11/05/23 17:31:19, ACTION,               mpdwsvc.exe, Should columnstore blob cache be included in filtered dump= 0
+(4ADC:2F80) 11/05/23 17:31:19, ACTION,               mpdwsvc.exe, Total columnstore object pool memory filtered out: 0 KB
+(4ADC:2F80) 11/05/23 17:31:19, ACTION,               mpdwsvc.exe, Total columnstore blob cache filtered out: 0 KB
+(4ADC:2F80) 11/05/23 17:31:19, ACTION,               mpdwsvc.exe, Total pages filtered out by bitmap: 0 KB
+(4ADC:2F80) 11/05/23 17:31:19, ACTION,               mpdwsvc.exe, Total file mapped memory filtered out: 0 KB
+(4ADC:2F80) 11/05/23 17:31:19, ACTION,               mpdwsvc.exe, Location of module 'dbghelp.dll' : 'C:\WINDOWS\SYSTEM32\dbghelp.dll'
+(4ADC:2F80) 11/05/23 17:31:19, ACTION,               mpdwsvc.exe, File version of module 'C:\WINDOWS\SYSTEM32\dbghelp.dll' : '6.2:22621.2506'
+(4ADC:2F80) 11/05/23 17:31:19, ACTION,               mpdwsvc.exe, Product version of module 'C:\WINDOWS\SYSTEM32\dbghelp.dll' : '10.0:22621.2506'
+(4ADC:2F80) 11/05/23 17:31:19, ACTION,               mpdwsvc.exe, Location of module 'sqldumper.exe' : 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE'
+(4ADC:2F80) 11/05/23 17:31:19, ACTION,               mpdwsvc.exe, File version of module 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE' : '2019.150:2000.5'
+(4ADC:2F80) 11/05/23 17:31:19, ACTION,               mpdwsvc.exe, Product version of module 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE' : '15.0:2000.5'
+(4ADC:2F80) 11/05/23 17:31:19, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(4ADC:2F80) 11/05/23 17:31:19, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(4ADC:2F80) 11/05/23 17:31:19, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(4ADC:2F80) 11/05/23 17:31:19, ACTION,               mpdwsvc.exe, Creating WER report...
+(4ADC:2F80) 11/05/23 17:31:19, ACTION,               mpdwsvc.exe, Created the report.
+(4ADC:2F80) 11/05/23 17:31:19, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(4ADC:2F80) 11/05/23 17:31:19, ACTION,               mpdwsvc.exe, Submitting WER report...
+(4ADC:2F80) 11/05/23 17:31:30, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(338:2E90) 11/05/23 17:31:45, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(338:2E90) 11/05/23 17:31:45, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(338:2E90) 11/05/23 17:31:45, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 1180
+(338:2E90) 11/05/23 17:31:45, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(338:2E90) 11/05/23 17:31:45, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(338:2E90) 11/05/23 17:31:45, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF65B26B360
+(338:2E90) 11/05/23 17:31:45, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(338:2E90) 11/05/23 17:31:45, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 1180
+(338:2E90) 11/05/23 17:31:45, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(338:2E90) 11/05/23 17:31:45, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(338:2E90) 11/05/23 17:31:45, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(338:2E90) 11/05/23 17:31:45, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF65B26B360
+(338:2E90) 11/05/23 17:31:45, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(338:2E90) 11/05/23 17:31:45, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(338:2E90) 11/05/23 17:31:45, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(338:2E90) 11/05/23 17:31:45, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(338:2E90) 11/05/23 17:31:45, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(338:2E90) 11/05/23 17:31:45, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(338:2E90) 11/05/23 17:31:45, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(338:2E90) 11/05/23 17:31:45, ERROR ,               mpdwsvc.exe, String at 0000027F83527710 was not NULL terminated
+(338:2E90) 11/05/23 17:31:45, ACTION,               mpdwsvc.exe, Not creating an additional dump, because dump for stack signature 000000016238BCB4 already exists.
+(338:2E90) 11/05/23 17:31:45, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(338:2E90) 11/05/23 17:31:45, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(338:2E90) 11/05/23 17:31:45, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(338:2E90) 11/05/23 17:31:45, ACTION,               mpdwsvc.exe, Creating WER report...
+(338:2E90) 11/05/23 17:31:45, ACTION,               mpdwsvc.exe, Created the report.
+(338:2E90) 11/05/23 17:31:45, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(338:2E90) 11/05/23 17:31:45, ACTION,               mpdwsvc.exe, Submitting WER report...
+(338:2E90) 11/05/23 17:31:57, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(4828:4A60) 11/05/23 17:32:12, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(4828:4A60) 11/05/23 17:32:12, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(4828:4A60) 11/05/23 17:32:12, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 1180
+(4828:4A60) 11/05/23 17:32:12, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(4828:4A60) 11/05/23 17:32:12, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(4828:4A60) 11/05/23 17:32:12, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF65B26B360
+(4828:4A60) 11/05/23 17:32:12, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(4828:4A60) 11/05/23 17:32:12, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 1180
+(4828:4A60) 11/05/23 17:32:12, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(4828:4A60) 11/05/23 17:32:12, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(4828:4A60) 11/05/23 17:32:12, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(4828:4A60) 11/05/23 17:32:12, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF65B26B360
+(4828:4A60) 11/05/23 17:32:12, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(4828:4A60) 11/05/23 17:32:12, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(4828:4A60) 11/05/23 17:32:12, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(4828:4A60) 11/05/23 17:32:12, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(4828:4A60) 11/05/23 17:32:12, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(4828:4A60) 11/05/23 17:32:12, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(4828:4A60) 11/05/23 17:32:12, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(4828:4A60) 11/05/23 17:32:12, ACTION,               mpdwsvc.exe, Not creating an additional dump, because dump for stack signature 000000016238BCB4 already exists.
+(4828:4A60) 11/05/23 17:32:12, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(4828:4A60) 11/05/23 17:32:12, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(4828:4A60) 11/05/23 17:32:12, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(4828:4A60) 11/05/23 17:32:12, ACTION,               mpdwsvc.exe, Creating WER report...
+(4828:4A60) 11/05/23 17:32:12, ACTION,               mpdwsvc.exe, Created the report.
+(4828:4A60) 11/05/23 17:32:12, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(4828:4A60) 11/05/23 17:32:12, ACTION,               mpdwsvc.exe, Submitting WER report...
+(4828:4A60) 11/05/23 17:32:15, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(47A4:40B8) 11/05/23 19:42:22, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(47A4:40B8) 11/05/23 19:42:22, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(47A4:40B8) 11/05/23 19:42:22, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 22108
+(47A4:40B8) 11/05/23 19:42:22, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(47A4:40B8) 11/05/23 19:42:22, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(47A4:40B8) 11/05/23 19:42:22, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF65B26B360
+(47A4:40B8) 11/05/23 19:42:22, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(47A4:40B8) 11/05/23 19:42:22, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 22108
+(47A4:40B8) 11/05/23 19:42:22, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(47A4:40B8) 11/05/23 19:42:22, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(47A4:40B8) 11/05/23 19:42:22, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(47A4:40B8) 11/05/23 19:42:22, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF65B26B360
+(47A4:40B8) 11/05/23 19:42:22, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(47A4:40B8) 11/05/23 19:42:22, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(47A4:40B8) 11/05/23 19:42:22, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(47A4:40B8) 11/05/23 19:42:22, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(47A4:40B8) 11/05/23 19:42:22, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(47A4:40B8) 11/05/23 19:42:22, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(47A4:40B8) 11/05/23 19:42:22, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(47A4:40B8) 11/05/23 19:42:22, ERROR ,               mpdwsvc.exe, String at 0000016704335E60 was not NULL terminated
+(47A4:40B8) 11/05/23 19:42:22, ACTION,               mpdwsvc.exe, Remote process didn't specify a dump file name
+(47A4:40B8) 11/05/23 19:42:22, ACTION,               mpdwsvc.exe, MINIDUMP_TYPE: 0x21966
+(47A4:40B8) 11/05/23 19:42:22, ACTION,               mpdwsvc.exe, Callback type 16 not used
+(47A4:40B8) 11/05/23 19:42:22, ACTION,               mpdwsvc.exe, Callback type 17 not used
+(47A4:40B8) 11/05/23 19:42:22, ACTION,               mpdwsvc.exe, Callback type 11 not used
+(47A4:40B8) 11/05/23 19:42:22, ACTION,               mpdwsvc.exe, Callback type 15 not used
+(47A4:40B8) 11/05/23 19:42:23, ACTION,               mpdwsvc.exe, Callback type 7 not used
+(47A4:40B8) 11/05/23 19:42:23, ACTION,               mpdwsvc.exe, MiniDump completed: C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Log\Polybase\dump\SQLDmpr.000000019161CDB0.GMT-2023-11-05-14-00-00.dmp
+(47A4:40B8) 11/05/23 19:42:23, ACTION,               mpdwsvc.exe, Total Buffer pool data pages filtered out: 0 KB
+(47A4:40B8) 11/05/23 19:42:23, ACTION,               mpdwsvc.exe, Total Hekaton data pages filtered out: 0 KB
+(47A4:40B8) 11/05/23 19:42:23, ACTION,               mpdwsvc.exe, Total Free memory (from non top level allocators) filtered out: 0 KB
+(47A4:40B8) 11/05/23 19:42:23, ACTION,               mpdwsvc.exe, Total top level free memory filtered out: 0 KB
+(47A4:40B8) 11/05/23 19:42:23, ACTION,               mpdwsvc.exe, Total Log pool memory filtered out: 0 KB
+(47A4:40B8) 11/05/23 19:42:23, ACTION,               mpdwsvc.exe, Should columnstore object pool be included in filtered dump= 0
+(47A4:40B8) 11/05/23 19:42:23, ACTION,               mpdwsvc.exe, Should columnstore blob cache be included in filtered dump= 0
+(47A4:40B8) 11/05/23 19:42:23, ACTION,               mpdwsvc.exe, Total columnstore object pool memory filtered out: 0 KB
+(47A4:40B8) 11/05/23 19:42:23, ACTION,               mpdwsvc.exe, Total columnstore blob cache filtered out: 0 KB
+(47A4:40B8) 11/05/23 19:42:23, ACTION,               mpdwsvc.exe, Total pages filtered out by bitmap: 0 KB
+(47A4:40B8) 11/05/23 19:42:23, ACTION,               mpdwsvc.exe, Total file mapped memory filtered out: 0 KB
+(47A4:40B8) 11/05/23 19:42:23, ACTION,               mpdwsvc.exe, Location of module 'dbghelp.dll' : 'C:\WINDOWS\SYSTEM32\dbghelp.dll'
+(47A4:40B8) 11/05/23 19:42:23, ACTION,               mpdwsvc.exe, File version of module 'C:\WINDOWS\SYSTEM32\dbghelp.dll' : '6.2:22621.2506'
+(47A4:40B8) 11/05/23 19:42:23, ACTION,               mpdwsvc.exe, Product version of module 'C:\WINDOWS\SYSTEM32\dbghelp.dll' : '10.0:22621.2506'
+(47A4:40B8) 11/05/23 19:42:23, ACTION,               mpdwsvc.exe, Location of module 'sqldumper.exe' : 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE'
+(47A4:40B8) 11/05/23 19:42:23, ACTION,               mpdwsvc.exe, File version of module 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE' : '2019.150:2000.5'
+(47A4:40B8) 11/05/23 19:42:23, ACTION,               mpdwsvc.exe, Product version of module 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE' : '15.0:2000.5'
+(47A4:40B8) 11/05/23 19:42:23, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(47A4:40B8) 11/05/23 19:42:23, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(47A4:40B8) 11/05/23 19:42:23, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(47A4:40B8) 11/05/23 19:42:23, ACTION,               mpdwsvc.exe, Creating WER report...
+(47A4:40B8) 11/05/23 19:42:23, ACTION,               mpdwsvc.exe, Created the report.
+(47A4:40B8) 11/05/23 19:42:23, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(47A4:40B8) 11/05/23 19:42:23, ACTION,               mpdwsvc.exe, Submitting WER report...
+(47A4:40B8) 11/05/23 19:42:35, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(140C:3FC8) 11/05/23 19:42:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(140C:3FC8) 11/05/23 19:42:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(140C:3FC8) 11/05/23 19:42:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 22108
+(140C:3FC8) 11/05/23 19:42:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(140C:3FC8) 11/05/23 19:42:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(140C:3FC8) 11/05/23 19:42:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF65B26B360
+(140C:3FC8) 11/05/23 19:42:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(140C:3FC8) 11/05/23 19:42:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 22108
+(140C:3FC8) 11/05/23 19:42:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(140C:3FC8) 11/05/23 19:42:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(140C:3FC8) 11/05/23 19:42:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(140C:3FC8) 11/05/23 19:42:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF65B26B360
+(140C:3FC8) 11/05/23 19:42:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(140C:3FC8) 11/05/23 19:42:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(140C:3FC8) 11/05/23 19:42:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(140C:3FC8) 11/05/23 19:42:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(140C:3FC8) 11/05/23 19:42:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(140C:3FC8) 11/05/23 19:42:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(140C:3FC8) 11/05/23 19:42:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(140C:3FC8) 11/05/23 19:42:49, ERROR ,               mpdwsvc.exe, String at 00000167032D2DE0 was not NULL terminated
+(140C:3FC8) 11/05/23 19:42:49, ACTION,               mpdwsvc.exe, Not creating an additional dump, because dump for stack signature 000000019161CDB0 already exists.
+(140C:3FC8) 11/05/23 19:42:49, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(140C:3FC8) 11/05/23 19:42:49, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(140C:3FC8) 11/05/23 19:42:49, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(140C:3FC8) 11/05/23 19:42:49, ACTION,               mpdwsvc.exe, Creating WER report...
+(140C:3FC8) 11/05/23 19:42:49, ACTION,               mpdwsvc.exe, Created the report.
+(140C:3FC8) 11/05/23 19:42:49, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(140C:3FC8) 11/05/23 19:42:49, ACTION,               mpdwsvc.exe, Submitting WER report...
+(140C:3FC8) 11/05/23 19:43:01, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(51F8:5818) 11/05/23 19:43:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(51F8:5818) 11/05/23 19:43:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(51F8:5818) 11/05/23 19:43:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 22108
+(51F8:5818) 11/05/23 19:43:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(51F8:5818) 11/05/23 19:43:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(51F8:5818) 11/05/23 19:43:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF65B26B360
+(51F8:5818) 11/05/23 19:43:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(51F8:5818) 11/05/23 19:43:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 22108
+(51F8:5818) 11/05/23 19:43:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(51F8:5818) 11/05/23 19:43:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(51F8:5818) 11/05/23 19:43:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(51F8:5818) 11/05/23 19:43:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF65B26B360
+(51F8:5818) 11/05/23 19:43:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(51F8:5818) 11/05/23 19:43:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(51F8:5818) 11/05/23 19:43:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(51F8:5818) 11/05/23 19:43:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(51F8:5818) 11/05/23 19:43:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(51F8:5818) 11/05/23 19:43:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(51F8:5818) 11/05/23 19:43:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(51F8:5818) 11/05/23 19:43:15, ACTION,               mpdwsvc.exe, Not creating an additional dump, because dump for stack signature 000000019161CDB0 already exists.
+(51F8:5818) 11/05/23 19:43:15, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(51F8:5818) 11/05/23 19:43:15, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(51F8:5818) 11/05/23 19:43:15, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(51F8:5818) 11/05/23 19:43:15, ACTION,               mpdwsvc.exe, Creating WER report...
+(51F8:5818) 11/05/23 19:43:15, ACTION,               mpdwsvc.exe, Created the report.
+(51F8:5818) 11/05/23 19:43:15, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(51F8:5818) 11/05/23 19:43:15, ACTION,               mpdwsvc.exe, Submitting WER report...
+(51F8:5818) 11/05/23 19:43:18, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(42A8:5AEC) 11/05/23 19:53:26, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(42A8:5AEC) 11/05/23 19:53:26, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(42A8:5AEC) 11/05/23 19:53:26, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 17080
+(42A8:5AEC) 11/05/23 19:53:26, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(42A8:5AEC) 11/05/23 19:53:26, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(42A8:5AEC) 11/05/23 19:53:26, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF65B26B360
+(42A8:5AEC) 11/05/23 19:53:26, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(42A8:5AEC) 11/05/23 19:53:26, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 17080
+(42A8:5AEC) 11/05/23 19:53:26, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(42A8:5AEC) 11/05/23 19:53:26, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(42A8:5AEC) 11/05/23 19:53:26, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(42A8:5AEC) 11/05/23 19:53:26, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF65B26B360
+(42A8:5AEC) 11/05/23 19:53:26, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(42A8:5AEC) 11/05/23 19:53:26, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(42A8:5AEC) 11/05/23 19:53:26, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(42A8:5AEC) 11/05/23 19:53:26, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(42A8:5AEC) 11/05/23 19:53:26, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(42A8:5AEC) 11/05/23 19:53:26, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(42A8:5AEC) 11/05/23 19:53:26, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(42A8:5AEC) 11/05/23 19:53:26, ERROR ,               mpdwsvc.exe, String at 0000020DAEF98A20 was not NULL terminated
+(42A8:5AEC) 11/05/23 19:53:26, ACTION,               mpdwsvc.exe, Remote process didn't specify a dump file name
+(42A8:5AEC) 11/05/23 19:53:26, ACTION,               mpdwsvc.exe, MINIDUMP_TYPE: 0x21966
+(42A8:5AEC) 11/05/23 19:53:26, ACTION,               mpdwsvc.exe, Callback type 16 not used
+(42A8:5AEC) 11/05/23 19:53:26, ACTION,               mpdwsvc.exe, Callback type 17 not used
+(42A8:5AEC) 11/05/23 19:53:26, ACTION,               mpdwsvc.exe, Callback type 11 not used
+(42A8:5AEC) 11/05/23 19:53:26, ACTION,               mpdwsvc.exe, Callback type 15 not used
+(42A8:5AEC) 11/05/23 19:53:27, ACTION,               mpdwsvc.exe, Callback type 7 not used
+(42A8:5AEC) 11/05/23 19:53:27, ACTION,               mpdwsvc.exe, MiniDump completed: C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Log\Polybase\dump\SQLDmpr.000000019162B990.GMT-2023-11-05-14-00-00.dmp
+(42A8:5AEC) 11/05/23 19:53:27, ACTION,               mpdwsvc.exe, Total Buffer pool data pages filtered out: 0 KB
+(42A8:5AEC) 11/05/23 19:53:27, ACTION,               mpdwsvc.exe, Total Hekaton data pages filtered out: 0 KB
+(42A8:5AEC) 11/05/23 19:53:27, ACTION,               mpdwsvc.exe, Total Free memory (from non top level allocators) filtered out: 0 KB
+(42A8:5AEC) 11/05/23 19:53:27, ACTION,               mpdwsvc.exe, Total top level free memory filtered out: 0 KB
+(42A8:5AEC) 11/05/23 19:53:27, ACTION,               mpdwsvc.exe, Total Log pool memory filtered out: 0 KB
+(42A8:5AEC) 11/05/23 19:53:27, ACTION,               mpdwsvc.exe, Should columnstore object pool be included in filtered dump= 0
+(42A8:5AEC) 11/05/23 19:53:27, ACTION,               mpdwsvc.exe, Should columnstore blob cache be included in filtered dump= 0
+(42A8:5AEC) 11/05/23 19:53:27, ACTION,               mpdwsvc.exe, Total columnstore object pool memory filtered out: 0 KB
+(42A8:5AEC) 11/05/23 19:53:27, ACTION,               mpdwsvc.exe, Total columnstore blob cache filtered out: 0 KB
+(42A8:5AEC) 11/05/23 19:53:27, ACTION,               mpdwsvc.exe, Total pages filtered out by bitmap: 0 KB
+(42A8:5AEC) 11/05/23 19:53:27, ACTION,               mpdwsvc.exe, Total file mapped memory filtered out: 0 KB
+(42A8:5AEC) 11/05/23 19:53:27, ACTION,               mpdwsvc.exe, Location of module 'dbghelp.dll' : 'C:\WINDOWS\SYSTEM32\dbghelp.dll'
+(42A8:5AEC) 11/05/23 19:53:27, ACTION,               mpdwsvc.exe, File version of module 'C:\WINDOWS\SYSTEM32\dbghelp.dll' : '6.2:22621.2506'
+(42A8:5AEC) 11/05/23 19:53:27, ACTION,               mpdwsvc.exe, Product version of module 'C:\WINDOWS\SYSTEM32\dbghelp.dll' : '10.0:22621.2506'
+(42A8:5AEC) 11/05/23 19:53:27, ACTION,               mpdwsvc.exe, Location of module 'sqldumper.exe' : 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE'
+(42A8:5AEC) 11/05/23 19:53:27, ACTION,               mpdwsvc.exe, File version of module 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE' : '2019.150:2000.5'
+(42A8:5AEC) 11/05/23 19:53:27, ACTION,               mpdwsvc.exe, Product version of module 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE' : '15.0:2000.5'
+(42A8:5AEC) 11/05/23 19:53:27, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(42A8:5AEC) 11/05/23 19:53:27, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(42A8:5AEC) 11/05/23 19:53:27, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(42A8:5AEC) 11/05/23 19:53:27, ACTION,               mpdwsvc.exe, Creating WER report...
+(42A8:5AEC) 11/05/23 19:53:27, ACTION,               mpdwsvc.exe, Created the report.
+(42A8:5AEC) 11/05/23 19:53:27, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(42A8:5AEC) 11/05/23 19:53:27, ACTION,               mpdwsvc.exe, Submitting WER report...
+(42A8:5AEC) 11/05/23 19:53:37, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(3AC4:5620) 11/05/23 19:53:52, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(3AC4:5620) 11/05/23 19:53:52, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(3AC4:5620) 11/05/23 19:53:52, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 17080
+(3AC4:5620) 11/05/23 19:53:52, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(3AC4:5620) 11/05/23 19:53:52, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(3AC4:5620) 11/05/23 19:53:52, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF65B26B360
+(3AC4:5620) 11/05/23 19:53:52, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(3AC4:5620) 11/05/23 19:53:52, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 17080
+(3AC4:5620) 11/05/23 19:53:52, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(3AC4:5620) 11/05/23 19:53:52, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(3AC4:5620) 11/05/23 19:53:52, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(3AC4:5620) 11/05/23 19:53:52, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF65B26B360
+(3AC4:5620) 11/05/23 19:53:52, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(3AC4:5620) 11/05/23 19:53:52, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(3AC4:5620) 11/05/23 19:53:52, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(3AC4:5620) 11/05/23 19:53:52, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(3AC4:5620) 11/05/23 19:53:52, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(3AC4:5620) 11/05/23 19:53:52, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(3AC4:5620) 11/05/23 19:53:52, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(3AC4:5620) 11/05/23 19:53:52, ERROR ,               mpdwsvc.exe, String at 0000020603335A40 was not NULL terminated
+(3AC4:5620) 11/05/23 19:53:52, ACTION,               mpdwsvc.exe, Not creating an additional dump, because dump for stack signature 000000019162B990 already exists.
+(3AC4:5620) 11/05/23 19:53:52, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(3AC4:5620) 11/05/23 19:53:52, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(3AC4:5620) 11/05/23 19:53:52, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(3AC4:5620) 11/05/23 19:53:52, ACTION,               mpdwsvc.exe, Creating WER report...
+(3AC4:5620) 11/05/23 19:53:52, ACTION,               mpdwsvc.exe, Created the report.
+(3AC4:5620) 11/05/23 19:53:52, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(3AC4:5620) 11/05/23 19:53:52, ACTION,               mpdwsvc.exe, Submitting WER report...
+(3AC4:5620) 11/05/23 19:54:03, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(2534:3A1C) 11/05/23 19:54:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(2534:3A1C) 11/05/23 19:54:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(2534:3A1C) 11/05/23 19:54:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 17080
+(2534:3A1C) 11/05/23 19:54:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(2534:3A1C) 11/05/23 19:54:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(2534:3A1C) 11/05/23 19:54:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF65B26B360
+(2534:3A1C) 11/05/23 19:54:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(2534:3A1C) 11/05/23 19:54:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 17080
+(2534:3A1C) 11/05/23 19:54:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(2534:3A1C) 11/05/23 19:54:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(2534:3A1C) 11/05/23 19:54:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(2534:3A1C) 11/05/23 19:54:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF65B26B360
+(2534:3A1C) 11/05/23 19:54:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(2534:3A1C) 11/05/23 19:54:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(2534:3A1C) 11/05/23 19:54:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(2534:3A1C) 11/05/23 19:54:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(2534:3A1C) 11/05/23 19:54:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(2534:3A1C) 11/05/23 19:54:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(2534:3A1C) 11/05/23 19:54:18, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(2534:3A1C) 11/05/23 19:54:18, ACTION,               mpdwsvc.exe, Not creating an additional dump, because dump for stack signature 000000019162B990 already exists.
+(2534:3A1C) 11/05/23 19:54:18, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(2534:3A1C) 11/05/23 19:54:18, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(2534:3A1C) 11/05/23 19:54:18, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(2534:3A1C) 11/05/23 19:54:18, ACTION,               mpdwsvc.exe, Creating WER report...
+(2534:3A1C) 11/05/23 19:54:18, ACTION,               mpdwsvc.exe, Created the report.
+(2534:3A1C) 11/05/23 19:54:18, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(2534:3A1C) 11/05/23 19:54:18, ACTION,               mpdwsvc.exe, Submitting WER report...
+(2534:3A1C) 11/05/23 19:54:21, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(3298:5790) 11/05/23 20:04:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(3298:5790) 11/05/23 20:04:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(3298:5790) 11/05/23 20:04:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 8552
+(3298:5790) 11/05/23 20:04:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(3298:5790) 11/05/23 20:04:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(3298:5790) 11/05/23 20:04:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF65B26B360
+(3298:5790) 11/05/23 20:04:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(3298:5790) 11/05/23 20:04:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 8552
+(3298:5790) 11/05/23 20:04:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(3298:5790) 11/05/23 20:04:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(3298:5790) 11/05/23 20:04:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(3298:5790) 11/05/23 20:04:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF65B26B360
+(3298:5790) 11/05/23 20:04:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(3298:5790) 11/05/23 20:04:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(3298:5790) 11/05/23 20:04:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(3298:5790) 11/05/23 20:04:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(3298:5790) 11/05/23 20:04:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(3298:5790) 11/05/23 20:04:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(3298:5790) 11/05/23 20:04:31, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(3298:5790) 11/05/23 20:04:31, ERROR ,               mpdwsvc.exe, String at 000002998420A540 was not NULL terminated
+(3298:5790) 11/05/23 20:04:31, ACTION,               mpdwsvc.exe, Remote process didn't specify a dump file name
+(3298:5790) 11/05/23 20:04:31, ACTION,               mpdwsvc.exe, MINIDUMP_TYPE: 0x21966
+(3298:5790) 11/05/23 20:04:31, ACTION,               mpdwsvc.exe, Callback type 16 not used
+(3298:5790) 11/05/23 20:04:31, ACTION,               mpdwsvc.exe, Callback type 17 not used
+(3298:5790) 11/05/23 20:04:31, ACTION,               mpdwsvc.exe, Callback type 11 not used
+(3298:5790) 11/05/23 20:04:31, ACTION,               mpdwsvc.exe, Callback type 15 not used
+(3298:5790) 11/05/23 20:04:32, ACTION,               mpdwsvc.exe, Callback type 7 not used
+(3298:5790) 11/05/23 20:04:32, ACTION,               mpdwsvc.exe, MiniDump completed: C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Log\Polybase\dump\SQLDmpr.00000001D772DFC4.GMT-2023-11-05-15-00-00.dmp
+(3298:5790) 11/05/23 20:04:32, ACTION,               mpdwsvc.exe, Total Buffer pool data pages filtered out: 0 KB
+(3298:5790) 11/05/23 20:04:32, ACTION,               mpdwsvc.exe, Total Hekaton data pages filtered out: 0 KB
+(3298:5790) 11/05/23 20:04:32, ACTION,               mpdwsvc.exe, Total Free memory (from non top level allocators) filtered out: 0 KB
+(3298:5790) 11/05/23 20:04:32, ACTION,               mpdwsvc.exe, Total top level free memory filtered out: 0 KB
+(3298:5790) 11/05/23 20:04:32, ACTION,               mpdwsvc.exe, Total Log pool memory filtered out: 0 KB
+(3298:5790) 11/05/23 20:04:32, ACTION,               mpdwsvc.exe, Should columnstore object pool be included in filtered dump= 0
+(3298:5790) 11/05/23 20:04:32, ACTION,               mpdwsvc.exe, Should columnstore blob cache be included in filtered dump= 0
+(3298:5790) 11/05/23 20:04:32, ACTION,               mpdwsvc.exe, Total columnstore object pool memory filtered out: 0 KB
+(3298:5790) 11/05/23 20:04:32, ACTION,               mpdwsvc.exe, Total columnstore blob cache filtered out: 0 KB
+(3298:5790) 11/05/23 20:04:32, ACTION,               mpdwsvc.exe, Total pages filtered out by bitmap: 0 KB
+(3298:5790) 11/05/23 20:04:32, ACTION,               mpdwsvc.exe, Total file mapped memory filtered out: 0 KB
+(3298:5790) 11/05/23 20:04:32, ACTION,               mpdwsvc.exe, Location of module 'dbghelp.dll' : 'C:\WINDOWS\SYSTEM32\dbghelp.dll'
+(3298:5790) 11/05/23 20:04:32, ACTION,               mpdwsvc.exe, File version of module 'C:\WINDOWS\SYSTEM32\dbghelp.dll' : '6.2:22621.2506'
+(3298:5790) 11/05/23 20:04:32, ACTION,               mpdwsvc.exe, Product version of module 'C:\WINDOWS\SYSTEM32\dbghelp.dll' : '10.0:22621.2506'
+(3298:5790) 11/05/23 20:04:32, ACTION,               mpdwsvc.exe, Location of module 'sqldumper.exe' : 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE'
+(3298:5790) 11/05/23 20:04:32, ACTION,               mpdwsvc.exe, File version of module 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE' : '2019.150:2000.5'
+(3298:5790) 11/05/23 20:04:32, ACTION,               mpdwsvc.exe, Product version of module 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE' : '15.0:2000.5'
+(3298:5790) 11/05/23 20:04:32, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(3298:5790) 11/05/23 20:04:32, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(3298:5790) 11/05/23 20:04:32, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(3298:5790) 11/05/23 20:04:32, ACTION,               mpdwsvc.exe, Creating WER report...
+(3298:5790) 11/05/23 20:04:32, ACTION,               mpdwsvc.exe, Created the report.
+(3298:5790) 11/05/23 20:04:32, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(3298:5790) 11/05/23 20:04:32, ACTION,               mpdwsvc.exe, Submitting WER report...
+(3298:5790) 11/05/23 20:04:44, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(139C:6184) 11/05/23 20:04:58, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(139C:6184) 11/05/23 20:04:58, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(139C:6184) 11/05/23 20:04:58, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 8552
+(139C:6184) 11/05/23 20:04:58, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(139C:6184) 11/05/23 20:04:58, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(139C:6184) 11/05/23 20:04:58, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF65B26B360
+(139C:6184) 11/05/23 20:04:58, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(139C:6184) 11/05/23 20:04:58, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 8552
+(139C:6184) 11/05/23 20:04:58, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(139C:6184) 11/05/23 20:04:58, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(139C:6184) 11/05/23 20:04:58, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(139C:6184) 11/05/23 20:04:58, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF65B26B360
+(139C:6184) 11/05/23 20:04:58, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(139C:6184) 11/05/23 20:04:58, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(139C:6184) 11/05/23 20:04:58, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(139C:6184) 11/05/23 20:04:58, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(139C:6184) 11/05/23 20:04:58, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(139C:6184) 11/05/23 20:04:58, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(139C:6184) 11/05/23 20:04:58, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(139C:6184) 11/05/23 20:04:58, ERROR ,               mpdwsvc.exe, String at 000002998316BCA0 was not NULL terminated
+(139C:6184) 11/05/23 20:04:58, ACTION,               mpdwsvc.exe, Not creating an additional dump, because dump for stack signature 00000001D772DFC4 already exists.
+(139C:6184) 11/05/23 20:04:58, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(139C:6184) 11/05/23 20:04:58, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(139C:6184) 11/05/23 20:04:58, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(139C:6184) 11/05/23 20:04:58, ACTION,               mpdwsvc.exe, Creating WER report...
+(139C:6184) 11/05/23 20:04:58, ACTION,               mpdwsvc.exe, Created the report.
+(139C:6184) 11/05/23 20:04:58, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(139C:6184) 11/05/23 20:04:58, ACTION,               mpdwsvc.exe, Submitting WER report...
+(139C:6184) 11/05/23 20:05:10, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(5134:2A34) 11/05/23 20:05:25, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(5134:2A34) 11/05/23 20:05:25, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(5134:2A34) 11/05/23 20:05:25, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 8552
+(5134:2A34) 11/05/23 20:05:25, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(5134:2A34) 11/05/23 20:05:25, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(5134:2A34) 11/05/23 20:05:25, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF65B26B360
+(5134:2A34) 11/05/23 20:05:25, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(5134:2A34) 11/05/23 20:05:25, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 8552
+(5134:2A34) 11/05/23 20:05:25, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(5134:2A34) 11/05/23 20:05:25, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(5134:2A34) 11/05/23 20:05:25, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(5134:2A34) 11/05/23 20:05:25, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF65B26B360
+(5134:2A34) 11/05/23 20:05:25, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(5134:2A34) 11/05/23 20:05:25, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(5134:2A34) 11/05/23 20:05:25, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(5134:2A34) 11/05/23 20:05:25, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(5134:2A34) 11/05/23 20:05:25, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(5134:2A34) 11/05/23 20:05:25, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(5134:2A34) 11/05/23 20:05:25, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(5134:2A34) 11/05/23 20:05:25, ACTION,               mpdwsvc.exe, Not creating an additional dump, because dump for stack signature 00000001D772DFC4 already exists.
+(5134:2A34) 11/05/23 20:05:25, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(5134:2A34) 11/05/23 20:05:25, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(5134:2A34) 11/05/23 20:05:25, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(5134:2A34) 11/05/23 20:05:25, ACTION,               mpdwsvc.exe, Creating WER report...
+(5134:2A34) 11/05/23 20:05:25, ACTION,               mpdwsvc.exe, Created the report.
+(5134:2A34) 11/05/23 20:05:25, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(5134:2A34) 11/05/23 20:05:25, ACTION,               mpdwsvc.exe, Submitting WER report...
+(5134:2A34) 11/05/23 20:05:28, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(4D84:12A0) 11/06/23 20:02:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(4D84:12A0) 11/06/23 20:02:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(4D84:12A0) 11/06/23 20:02:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 23812
+(4D84:12A0) 11/06/23 20:02:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(4D84:12A0) 11/06/23 20:02:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(4D84:12A0) 11/06/23 20:02:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF6B743B360
+(4D84:12A0) 11/06/23 20:02:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(4D84:12A0) 11/06/23 20:02:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 23812
+(4D84:12A0) 11/06/23 20:02:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(4D84:12A0) 11/06/23 20:02:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(4D84:12A0) 11/06/23 20:02:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(4D84:12A0) 11/06/23 20:02:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF6B743B360
+(4D84:12A0) 11/06/23 20:02:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(4D84:12A0) 11/06/23 20:02:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(4D84:12A0) 11/06/23 20:02:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(4D84:12A0) 11/06/23 20:02:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(4D84:12A0) 11/06/23 20:02:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(4D84:12A0) 11/06/23 20:02:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(4D84:12A0) 11/06/23 20:02:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(4D84:12A0) 11/06/23 20:02:37, ERROR ,               mpdwsvc.exe, String at 0000018182E7EEE0 was not NULL terminated
+(4D84:12A0) 11/06/23 20:02:37, ACTION,               mpdwsvc.exe, Remote process didn't specify a dump file name
+(4D84:12A0) 11/06/23 20:02:37, ACTION,               mpdwsvc.exe, MINIDUMP_TYPE: 0x21966
+(4D84:12A0) 11/06/23 20:02:37, ACTION,               mpdwsvc.exe, Callback type 16 not used
+(4D84:12A0) 11/06/23 20:02:37, ACTION,               mpdwsvc.exe, Callback type 17 not used
+(4D84:12A0) 11/06/23 20:02:37, ACTION,               mpdwsvc.exe, Callback type 11 not used
+(4D84:12A0) 11/06/23 20:02:37, ACTION,               mpdwsvc.exe, Callback type 15 not used
+(4D84:12A0) 11/06/23 20:02:39, ACTION,               mpdwsvc.exe, Callback type 7 not used
+(4D84:12A0) 11/06/23 20:02:39, ACTION,               mpdwsvc.exe, MiniDump completed: C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Log\Polybase\dump\SQLDmpr.000000016237D8C4.GMT-2023-11-06-15-00-00.dmp
+(4D84:12A0) 11/06/23 20:02:39, ACTION,               mpdwsvc.exe, Total Buffer pool data pages filtered out: 0 KB
+(4D84:12A0) 11/06/23 20:02:39, ACTION,               mpdwsvc.exe, Total Hekaton data pages filtered out: 0 KB
+(4D84:12A0) 11/06/23 20:02:39, ACTION,               mpdwsvc.exe, Total Free memory (from non top level allocators) filtered out: 0 KB
+(4D84:12A0) 11/06/23 20:02:39, ACTION,               mpdwsvc.exe, Total top level free memory filtered out: 0 KB
+(4D84:12A0) 11/06/23 20:02:39, ACTION,               mpdwsvc.exe, Total Log pool memory filtered out: 0 KB
+(4D84:12A0) 11/06/23 20:02:39, ACTION,               mpdwsvc.exe, Should columnstore object pool be included in filtered dump= 0
+(4D84:12A0) 11/06/23 20:02:39, ACTION,               mpdwsvc.exe, Should columnstore blob cache be included in filtered dump= 0
+(4D84:12A0) 11/06/23 20:02:39, ACTION,               mpdwsvc.exe, Total columnstore object pool memory filtered out: 0 KB
+(4D84:12A0) 11/06/23 20:02:39, ACTION,               mpdwsvc.exe, Total columnstore blob cache filtered out: 0 KB
+(4D84:12A0) 11/06/23 20:02:39, ACTION,               mpdwsvc.exe, Total pages filtered out by bitmap: 0 KB
+(4D84:12A0) 11/06/23 20:02:39, ACTION,               mpdwsvc.exe, Total file mapped memory filtered out: 0 KB
+(4D84:12A0) 11/06/23 20:02:39, ACTION,               mpdwsvc.exe, Location of module 'dbghelp.dll' : 'C:\WINDOWS\SYSTEM32\dbghelp.dll'
+(4D84:12A0) 11/06/23 20:02:39, ACTION,               mpdwsvc.exe, File version of module 'C:\WINDOWS\SYSTEM32\dbghelp.dll' : '6.2:22621.2506'
+(4D84:12A0) 11/06/23 20:02:39, ACTION,               mpdwsvc.exe, Product version of module 'C:\WINDOWS\SYSTEM32\dbghelp.dll' : '10.0:22621.2506'
+(4D84:12A0) 11/06/23 20:02:39, ACTION,               mpdwsvc.exe, Location of module 'sqldumper.exe' : 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE'
+(4D84:12A0) 11/06/23 20:02:39, ACTION,               mpdwsvc.exe, File version of module 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE' : '2019.150:2000.5'
+(4D84:12A0) 11/06/23 20:02:39, ACTION,               mpdwsvc.exe, Product version of module 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE' : '15.0:2000.5'
+(4D84:12A0) 11/06/23 20:02:39, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(4D84:12A0) 11/06/23 20:02:39, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(4D84:12A0) 11/06/23 20:02:39, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(4D84:12A0) 11/06/23 20:02:39, ACTION,               mpdwsvc.exe, Creating WER report...
+(4D84:12A0) 11/06/23 20:02:39, ACTION,               mpdwsvc.exe, Created the report.
+(4D84:12A0) 11/06/23 20:02:39, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(4D84:12A0) 11/06/23 20:02:39, ACTION,               mpdwsvc.exe, Submitting WER report...
+(4D84:12A0) 11/06/23 20:02:51, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(154C:908) 11/06/23 20:03:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(154C:908) 11/06/23 20:03:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(154C:908) 11/06/23 20:03:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 23812
+(154C:908) 11/06/23 20:03:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(154C:908) 11/06/23 20:03:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(154C:908) 11/06/23 20:03:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF6B743B360
+(154C:908) 11/06/23 20:03:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(154C:908) 11/06/23 20:03:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 23812
+(154C:908) 11/06/23 20:03:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(154C:908) 11/06/23 20:03:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(154C:908) 11/06/23 20:03:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(154C:908) 11/06/23 20:03:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF6B743B360
+(154C:908) 11/06/23 20:03:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(154C:908) 11/06/23 20:03:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(154C:908) 11/06/23 20:03:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(154C:908) 11/06/23 20:03:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(154C:908) 11/06/23 20:03:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(154C:908) 11/06/23 20:03:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(154C:908) 11/06/23 20:03:06, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(154C:908) 11/06/23 20:03:06, ERROR ,               mpdwsvc.exe, String at 0000018182E7EEE0 was not NULL terminated
+(154C:908) 11/06/23 20:03:06, ACTION,               mpdwsvc.exe, Not creating an additional dump, because dump for stack signature 000000016237D8C4 already exists.
+(154C:908) 11/06/23 20:03:06, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(154C:908) 11/06/23 20:03:06, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(154C:908) 11/06/23 20:03:06, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(154C:908) 11/06/23 20:03:06, ACTION,               mpdwsvc.exe, Creating WER report...
+(154C:908) 11/06/23 20:03:06, ACTION,               mpdwsvc.exe, Created the report.
+(154C:908) 11/06/23 20:03:06, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(154C:908) 11/06/23 20:03:06, ACTION,               mpdwsvc.exe, Submitting WER report...
+(154C:908) 11/06/23 20:03:18, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(4E34:2C8C) 11/06/23 20:03:33, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(4E34:2C8C) 11/06/23 20:03:33, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(4E34:2C8C) 11/06/23 20:03:33, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 23812
+(4E34:2C8C) 11/06/23 20:03:33, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(4E34:2C8C) 11/06/23 20:03:33, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(4E34:2C8C) 11/06/23 20:03:33, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF6B743B360
+(4E34:2C8C) 11/06/23 20:03:33, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(4E34:2C8C) 11/06/23 20:03:33, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 23812
+(4E34:2C8C) 11/06/23 20:03:33, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(4E34:2C8C) 11/06/23 20:03:33, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(4E34:2C8C) 11/06/23 20:03:33, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(4E34:2C8C) 11/06/23 20:03:33, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF6B743B360
+(4E34:2C8C) 11/06/23 20:03:33, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(4E34:2C8C) 11/06/23 20:03:33, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(4E34:2C8C) 11/06/23 20:03:33, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(4E34:2C8C) 11/06/23 20:03:33, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(4E34:2C8C) 11/06/23 20:03:33, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(4E34:2C8C) 11/06/23 20:03:33, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(4E34:2C8C) 11/06/23 20:03:33, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(4E34:2C8C) 11/06/23 20:03:33, ACTION,               mpdwsvc.exe, Not creating an additional dump, because dump for stack signature 000000016237D8C4 already exists.
+(4E34:2C8C) 11/06/23 20:03:33, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(4E34:2C8C) 11/06/23 20:03:33, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(4E34:2C8C) 11/06/23 20:03:33, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(4E34:2C8C) 11/06/23 20:03:33, ACTION,               mpdwsvc.exe, Creating WER report...
+(4E34:2C8C) 11/06/23 20:03:33, ACTION,               mpdwsvc.exe, Created the report.
+(4E34:2C8C) 11/06/23 20:03:33, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(4E34:2C8C) 11/06/23 20:03:33, ACTION,               mpdwsvc.exe, Submitting WER report...
+(4E34:2C8C) 11/06/23 20:03:36, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(2BA4:629C) 11/06/23 20:13:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(2BA4:629C) 11/06/23 20:13:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(2BA4:629C) 11/06/23 20:13:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 21508
+(2BA4:629C) 11/06/23 20:13:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(2BA4:629C) 11/06/23 20:13:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(2BA4:629C) 11/06/23 20:13:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF6B743B360
+(2BA4:629C) 11/06/23 20:13:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(2BA4:629C) 11/06/23 20:13:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 21508
+(2BA4:629C) 11/06/23 20:13:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(2BA4:629C) 11/06/23 20:13:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(2BA4:629C) 11/06/23 20:13:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(2BA4:629C) 11/06/23 20:13:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF6B743B360
+(2BA4:629C) 11/06/23 20:13:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(2BA4:629C) 11/06/23 20:13:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(2BA4:629C) 11/06/23 20:13:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(2BA4:629C) 11/06/23 20:13:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(2BA4:629C) 11/06/23 20:13:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(2BA4:629C) 11/06/23 20:13:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(2BA4:629C) 11/06/23 20:13:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(2BA4:629C) 11/06/23 20:13:43, ERROR ,               mpdwsvc.exe, String at 0000018084983FD0 was not NULL terminated
+(2BA4:629C) 11/06/23 20:13:43, ACTION,               mpdwsvc.exe, Remote process didn't specify a dump file name
+(2BA4:629C) 11/06/23 20:13:43, ACTION,               mpdwsvc.exe, MINIDUMP_TYPE: 0x21966
+(2BA4:629C) 11/06/23 20:13:43, ACTION,               mpdwsvc.exe, Callback type 16 not used
+(2BA4:629C) 11/06/23 20:13:43, ACTION,               mpdwsvc.exe, Callback type 17 not used
+(2BA4:629C) 11/06/23 20:13:43, ACTION,               mpdwsvc.exe, Callback type 11 not used
+(2BA4:629C) 11/06/23 20:13:43, ACTION,               mpdwsvc.exe, Callback type 15 not used
+(2BA4:629C) 11/06/23 20:13:43, ACTION,               mpdwsvc.exe, Callback type 7 not used
+(2BA4:629C) 11/06/23 20:13:43, ACTION,               mpdwsvc.exe, MiniDump completed: C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Log\Polybase\dump\SQLDmpr.000000016237CFC4.GMT-2023-11-06-15-00-00.dmp
+(2BA4:629C) 11/06/23 20:13:43, ACTION,               mpdwsvc.exe, Total Buffer pool data pages filtered out: 0 KB
+(2BA4:629C) 11/06/23 20:13:43, ACTION,               mpdwsvc.exe, Total Hekaton data pages filtered out: 0 KB
+(2BA4:629C) 11/06/23 20:13:43, ACTION,               mpdwsvc.exe, Total Free memory (from non top level allocators) filtered out: 0 KB
+(2BA4:629C) 11/06/23 20:13:43, ACTION,               mpdwsvc.exe, Total top level free memory filtered out: 0 KB
+(2BA4:629C) 11/06/23 20:13:43, ACTION,               mpdwsvc.exe, Total Log pool memory filtered out: 0 KB
+(2BA4:629C) 11/06/23 20:13:43, ACTION,               mpdwsvc.exe, Should columnstore object pool be included in filtered dump= 0
+(2BA4:629C) 11/06/23 20:13:43, ACTION,               mpdwsvc.exe, Should columnstore blob cache be included in filtered dump= 0
+(2BA4:629C) 11/06/23 20:13:43, ACTION,               mpdwsvc.exe, Total columnstore object pool memory filtered out: 0 KB
+(2BA4:629C) 11/06/23 20:13:43, ACTION,               mpdwsvc.exe, Total columnstore blob cache filtered out: 0 KB
+(2BA4:629C) 11/06/23 20:13:43, ACTION,               mpdwsvc.exe, Total pages filtered out by bitmap: 0 KB
+(2BA4:629C) 11/06/23 20:13:43, ACTION,               mpdwsvc.exe, Total file mapped memory filtered out: 0 KB
+(2BA4:629C) 11/06/23 20:13:43, ACTION,               mpdwsvc.exe, Location of module 'dbghelp.dll' : 'C:\WINDOWS\SYSTEM32\dbghelp.dll'
+(2BA4:629C) 11/06/23 20:13:43, ACTION,               mpdwsvc.exe, File version of module 'C:\WINDOWS\SYSTEM32\dbghelp.dll' : '6.2:22621.2506'
+(2BA4:629C) 11/06/23 20:13:43, ACTION,               mpdwsvc.exe, Product version of module 'C:\WINDOWS\SYSTEM32\dbghelp.dll' : '10.0:22621.2506'
+(2BA4:629C) 11/06/23 20:13:43, ACTION,               mpdwsvc.exe, Location of module 'sqldumper.exe' : 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE'
+(2BA4:629C) 11/06/23 20:13:43, ACTION,               mpdwsvc.exe, File version of module 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE' : '2019.150:2000.5'
+(2BA4:629C) 11/06/23 20:13:43, ACTION,               mpdwsvc.exe, Product version of module 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE' : '15.0:2000.5'
+(2BA4:629C) 11/06/23 20:13:43, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(2BA4:629C) 11/06/23 20:13:43, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(2BA4:629C) 11/06/23 20:13:43, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(2BA4:629C) 11/06/23 20:13:43, ACTION,               mpdwsvc.exe, Creating WER report...
+(2BA4:629C) 11/06/23 20:13:43, ACTION,               mpdwsvc.exe, Created the report.
+(2BA4:629C) 11/06/23 20:13:43, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(2BA4:629C) 11/06/23 20:13:43, ACTION,               mpdwsvc.exe, Submitting WER report...
+(2BA4:629C) 11/06/23 20:13:56, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(42D8:26F8) 11/06/23 20:14:11, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(42D8:26F8) 11/06/23 20:14:11, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(42D8:26F8) 11/06/23 20:14:11, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 21508
+(42D8:26F8) 11/06/23 20:14:11, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(42D8:26F8) 11/06/23 20:14:11, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(42D8:26F8) 11/06/23 20:14:11, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF6B743B360
+(42D8:26F8) 11/06/23 20:14:11, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(42D8:26F8) 11/06/23 20:14:11, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 21508
+(42D8:26F8) 11/06/23 20:14:11, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(42D8:26F8) 11/06/23 20:14:11, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(42D8:26F8) 11/06/23 20:14:11, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(42D8:26F8) 11/06/23 20:14:11, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF6B743B360
+(42D8:26F8) 11/06/23 20:14:11, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(42D8:26F8) 11/06/23 20:14:11, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(42D8:26F8) 11/06/23 20:14:11, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(42D8:26F8) 11/06/23 20:14:11, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(42D8:26F8) 11/06/23 20:14:11, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(42D8:26F8) 11/06/23 20:14:11, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(42D8:26F8) 11/06/23 20:14:11, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(42D8:26F8) 11/06/23 20:14:11, ERROR ,               mpdwsvc.exe, String at 0000018084983FD0 was not NULL terminated
+(42D8:26F8) 11/06/23 20:14:11, ACTION,               mpdwsvc.exe, Not creating an additional dump, because dump for stack signature 000000016237CFC4 already exists.
+(42D8:26F8) 11/06/23 20:14:11, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(42D8:26F8) 11/06/23 20:14:11, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(42D8:26F8) 11/06/23 20:14:11, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(42D8:26F8) 11/06/23 20:14:11, ACTION,               mpdwsvc.exe, Creating WER report...
+(42D8:26F8) 11/06/23 20:14:11, ACTION,               mpdwsvc.exe, Created the report.
+(42D8:26F8) 11/06/23 20:14:11, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(42D8:26F8) 11/06/23 20:14:11, ACTION,               mpdwsvc.exe, Submitting WER report...
+(42D8:26F8) 11/06/23 20:14:22, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(6230:1E80) 11/06/23 20:14:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(6230:1E80) 11/06/23 20:14:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(6230:1E80) 11/06/23 20:14:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 21508
+(6230:1E80) 11/06/23 20:14:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(6230:1E80) 11/06/23 20:14:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(6230:1E80) 11/06/23 20:14:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF6B743B360
+(6230:1E80) 11/06/23 20:14:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(6230:1E80) 11/06/23 20:14:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 21508
+(6230:1E80) 11/06/23 20:14:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(6230:1E80) 11/06/23 20:14:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(6230:1E80) 11/06/23 20:14:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(6230:1E80) 11/06/23 20:14:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF6B743B360
+(6230:1E80) 11/06/23 20:14:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(6230:1E80) 11/06/23 20:14:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(6230:1E80) 11/06/23 20:14:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(6230:1E80) 11/06/23 20:14:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(6230:1E80) 11/06/23 20:14:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(6230:1E80) 11/06/23 20:14:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(6230:1E80) 11/06/23 20:14:37, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(6230:1E80) 11/06/23 20:14:37, ACTION,               mpdwsvc.exe, Not creating an additional dump, because dump for stack signature 000000016237CFC4 already exists.
+(6230:1E80) 11/06/23 20:14:37, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(6230:1E80) 11/06/23 20:14:37, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(6230:1E80) 11/06/23 20:14:37, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(6230:1E80) 11/06/23 20:14:37, ACTION,               mpdwsvc.exe, Creating WER report...
+(6230:1E80) 11/06/23 20:14:37, ACTION,               mpdwsvc.exe, Created the report.
+(6230:1E80) 11/06/23 20:14:37, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(6230:1E80) 11/06/23 20:14:37, ACTION,               mpdwsvc.exe, Submitting WER report...
+(6230:1E80) 11/06/23 20:14:40, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(411C:3D80) 11/06/23 20:24:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(411C:3D80) 11/06/23 20:24:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(411C:3D80) 11/06/23 20:24:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 14848
+(411C:3D80) 11/06/23 20:24:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(411C:3D80) 11/06/23 20:24:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(411C:3D80) 11/06/23 20:24:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF6B743B360
+(411C:3D80) 11/06/23 20:24:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(411C:3D80) 11/06/23 20:24:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 14848
+(411C:3D80) 11/06/23 20:24:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(411C:3D80) 11/06/23 20:24:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(411C:3D80) 11/06/23 20:24:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(411C:3D80) 11/06/23 20:24:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF6B743B360
+(411C:3D80) 11/06/23 20:24:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(411C:3D80) 11/06/23 20:24:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(411C:3D80) 11/06/23 20:24:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(411C:3D80) 11/06/23 20:24:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(411C:3D80) 11/06/23 20:24:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(411C:3D80) 11/06/23 20:24:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(411C:3D80) 11/06/23 20:24:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(411C:3D80) 11/06/23 20:24:53, ERROR ,               mpdwsvc.exe, String at 000001C682672F90 was not NULL terminated
+(411C:3D80) 11/06/23 20:24:53, ACTION,               mpdwsvc.exe, Remote process didn't specify a dump file name
+(411C:3D80) 11/06/23 20:24:53, ACTION,               mpdwsvc.exe, MINIDUMP_TYPE: 0x21966
+(411C:3D80) 11/06/23 20:24:53, ACTION,               mpdwsvc.exe, Callback type 16 not used
+(411C:3D80) 11/06/23 20:24:53, ACTION,               mpdwsvc.exe, Callback type 17 not used
+(411C:3D80) 11/06/23 20:24:53, ACTION,               mpdwsvc.exe, Callback type 11 not used
+(411C:3D80) 11/06/23 20:24:53, ACTION,               mpdwsvc.exe, Callback type 15 not used
+(411C:3D80) 11/06/23 20:24:54, ACTION,               mpdwsvc.exe, Callback type 7 not used
+(411C:3D80) 11/06/23 20:24:54, ACTION,               mpdwsvc.exe, MiniDump completed: C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Log\Polybase\dump\SQLDmpr.0000000191629500.GMT-2023-11-06-15-00-00.dmp
+(411C:3D80) 11/06/23 20:24:54, ACTION,               mpdwsvc.exe, Total Buffer pool data pages filtered out: 0 KB
+(411C:3D80) 11/06/23 20:24:54, ACTION,               mpdwsvc.exe, Total Hekaton data pages filtered out: 0 KB
+(411C:3D80) 11/06/23 20:24:54, ACTION,               mpdwsvc.exe, Total Free memory (from non top level allocators) filtered out: 0 KB
+(411C:3D80) 11/06/23 20:24:54, ACTION,               mpdwsvc.exe, Total top level free memory filtered out: 0 KB
+(411C:3D80) 11/06/23 20:24:54, ACTION,               mpdwsvc.exe, Total Log pool memory filtered out: 0 KB
+(411C:3D80) 11/06/23 20:24:54, ACTION,               mpdwsvc.exe, Should columnstore object pool be included in filtered dump= 0
+(411C:3D80) 11/06/23 20:24:54, ACTION,               mpdwsvc.exe, Should columnstore blob cache be included in filtered dump= 0
+(411C:3D80) 11/06/23 20:24:54, ACTION,               mpdwsvc.exe, Total columnstore object pool memory filtered out: 0 KB
+(411C:3D80) 11/06/23 20:24:54, ACTION,               mpdwsvc.exe, Total columnstore blob cache filtered out: 0 KB
+(411C:3D80) 11/06/23 20:24:54, ACTION,               mpdwsvc.exe, Total pages filtered out by bitmap: 0 KB
+(411C:3D80) 11/06/23 20:24:54, ACTION,               mpdwsvc.exe, Total file mapped memory filtered out: 0 KB
+(411C:3D80) 11/06/23 20:24:54, ACTION,               mpdwsvc.exe, Location of module 'dbghelp.dll' : 'C:\WINDOWS\SYSTEM32\dbghelp.dll'
+(411C:3D80) 11/06/23 20:24:54, ACTION,               mpdwsvc.exe, File version of module 'C:\WINDOWS\SYSTEM32\dbghelp.dll' : '6.2:22621.2506'
+(411C:3D80) 11/06/23 20:24:54, ACTION,               mpdwsvc.exe, Product version of module 'C:\WINDOWS\SYSTEM32\dbghelp.dll' : '10.0:22621.2506'
+(411C:3D80) 11/06/23 20:24:54, ACTION,               mpdwsvc.exe, Location of module 'sqldumper.exe' : 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE'
+(411C:3D80) 11/06/23 20:24:54, ACTION,               mpdwsvc.exe, File version of module 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE' : '2019.150:2000.5'
+(411C:3D80) 11/06/23 20:24:54, ACTION,               mpdwsvc.exe, Product version of module 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE' : '15.0:2000.5'
+(411C:3D80) 11/06/23 20:24:54, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(411C:3D80) 11/06/23 20:24:54, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(411C:3D80) 11/06/23 20:24:54, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(411C:3D80) 11/06/23 20:24:54, ACTION,               mpdwsvc.exe, Creating WER report...
+(411C:3D80) 11/06/23 20:24:54, ACTION,               mpdwsvc.exe, Created the report.
+(411C:3D80) 11/06/23 20:24:54, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(411C:3D80) 11/06/23 20:24:54, ACTION,               mpdwsvc.exe, Submitting WER report...
+(411C:3D80) 11/06/23 20:25:05, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(423C:561C) 11/06/23 20:25:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(423C:561C) 11/06/23 20:25:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(423C:561C) 11/06/23 20:25:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 14848
+(423C:561C) 11/06/23 20:25:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(423C:561C) 11/06/23 20:25:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(423C:561C) 11/06/23 20:25:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF6B743B360
+(423C:561C) 11/06/23 20:25:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(423C:561C) 11/06/23 20:25:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 14848
+(423C:561C) 11/06/23 20:25:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(423C:561C) 11/06/23 20:25:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(423C:561C) 11/06/23 20:25:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(423C:561C) 11/06/23 20:25:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF6B743B360
+(423C:561C) 11/06/23 20:25:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(423C:561C) 11/06/23 20:25:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(423C:561C) 11/06/23 20:25:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(423C:561C) 11/06/23 20:25:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(423C:561C) 11/06/23 20:25:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(423C:561C) 11/06/23 20:25:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(423C:561C) 11/06/23 20:25:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(423C:561C) 11/06/23 20:25:20, ERROR ,               mpdwsvc.exe, String at 000001C6813F1D70 was not NULL terminated
+(423C:561C) 11/06/23 20:25:20, ACTION,               mpdwsvc.exe, Not creating an additional dump, because dump for stack signature 0000000191629500 already exists.
+(423C:561C) 11/06/23 20:25:20, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(423C:561C) 11/06/23 20:25:20, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(423C:561C) 11/06/23 20:25:20, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(423C:561C) 11/06/23 20:25:20, ACTION,               mpdwsvc.exe, Creating WER report...
+(423C:561C) 11/06/23 20:25:20, ACTION,               mpdwsvc.exe, Created the report.
+(423C:561C) 11/06/23 20:25:20, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(423C:561C) 11/06/23 20:25:20, ACTION,               mpdwsvc.exe, Submitting WER report...
+(423C:561C) 11/06/23 20:25:31, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(54E4:18F4) 11/06/23 20:25:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(54E4:18F4) 11/06/23 20:25:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(54E4:18F4) 11/06/23 20:25:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 14848
+(54E4:18F4) 11/06/23 20:25:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(54E4:18F4) 11/06/23 20:25:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(54E4:18F4) 11/06/23 20:25:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF6B743B360
+(54E4:18F4) 11/06/23 20:25:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(54E4:18F4) 11/06/23 20:25:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 14848
+(54E4:18F4) 11/06/23 20:25:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(54E4:18F4) 11/06/23 20:25:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(54E4:18F4) 11/06/23 20:25:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(54E4:18F4) 11/06/23 20:25:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF6B743B360
+(54E4:18F4) 11/06/23 20:25:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(54E4:18F4) 11/06/23 20:25:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(54E4:18F4) 11/06/23 20:25:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(54E4:18F4) 11/06/23 20:25:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(54E4:18F4) 11/06/23 20:25:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(54E4:18F4) 11/06/23 20:25:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(54E4:18F4) 11/06/23 20:25:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(54E4:18F4) 11/06/23 20:25:46, ACTION,               mpdwsvc.exe, Not creating an additional dump, because dump for stack signature 0000000191629500 already exists.
+(54E4:18F4) 11/06/23 20:25:46, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(54E4:18F4) 11/06/23 20:25:46, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(54E4:18F4) 11/06/23 20:25:46, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(54E4:18F4) 11/06/23 20:25:46, ACTION,               mpdwsvc.exe, Creating WER report...
+(54E4:18F4) 11/06/23 20:25:46, ACTION,               mpdwsvc.exe, Created the report.
+(54E4:18F4) 11/06/23 20:25:46, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(54E4:18F4) 11/06/23 20:25:46, ACTION,               mpdwsvc.exe, Submitting WER report...
+(54E4:18F4) 11/06/23 20:25:49, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(15F8:39F0) 11/07/23 20:13:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(15F8:39F0) 11/07/23 20:13:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(15F8:39F0) 11/07/23 20:13:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 24396
+(15F8:39F0) 11/07/23 20:13:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(15F8:39F0) 11/07/23 20:13:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(15F8:39F0) 11/07/23 20:13:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF73FC5B360
+(15F8:39F0) 11/07/23 20:13:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(15F8:39F0) 11/07/23 20:13:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 24396
+(15F8:39F0) 11/07/23 20:13:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(15F8:39F0) 11/07/23 20:13:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(15F8:39F0) 11/07/23 20:13:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(15F8:39F0) 11/07/23 20:13:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF73FC5B360
+(15F8:39F0) 11/07/23 20:13:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(15F8:39F0) 11/07/23 20:13:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(15F8:39F0) 11/07/23 20:13:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(15F8:39F0) 11/07/23 20:13:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(15F8:39F0) 11/07/23 20:13:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(15F8:39F0) 11/07/23 20:13:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(15F8:39F0) 11/07/23 20:13:46, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(15F8:39F0) 11/07/23 20:13:46, ERROR ,               mpdwsvc.exe, String at 000001B00446DDC0 was not NULL terminated
+(15F8:39F0) 11/07/23 20:13:46, ACTION,               mpdwsvc.exe, Remote process didn't specify a dump file name
+(15F8:39F0) 11/07/23 20:13:46, ACTION,               mpdwsvc.exe, MINIDUMP_TYPE: 0x21966
+(15F8:39F0) 11/07/23 20:13:46, ACTION,               mpdwsvc.exe, Callback type 16 not used
+(15F8:39F0) 11/07/23 20:13:46, ACTION,               mpdwsvc.exe, Callback type 17 not used
+(15F8:39F0) 11/07/23 20:13:46, ACTION,               mpdwsvc.exe, Callback type 11 not used
+(15F8:39F0) 11/07/23 20:13:46, ACTION,               mpdwsvc.exe, Callback type 15 not used
+(15F8:39F0) 11/07/23 20:13:47, ACTION,               mpdwsvc.exe, Callback type 7 not used
+(15F8:39F0) 11/07/23 20:13:47, ACTION,               mpdwsvc.exe, MiniDump completed: C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Log\Polybase\dump\SQLDmpr.00000000DDF8FFC4.GMT-2023-11-07-15-00-00.dmp
+(15F8:39F0) 11/07/23 20:13:47, ACTION,               mpdwsvc.exe, Total Buffer pool data pages filtered out: 0 KB
+(15F8:39F0) 11/07/23 20:13:47, ACTION,               mpdwsvc.exe, Total Hekaton data pages filtered out: 0 KB
+(15F8:39F0) 11/07/23 20:13:47, ACTION,               mpdwsvc.exe, Total Free memory (from non top level allocators) filtered out: 0 KB
+(15F8:39F0) 11/07/23 20:13:47, ACTION,               mpdwsvc.exe, Total top level free memory filtered out: 0 KB
+(15F8:39F0) 11/07/23 20:13:47, ACTION,               mpdwsvc.exe, Total Log pool memory filtered out: 0 KB
+(15F8:39F0) 11/07/23 20:13:47, ACTION,               mpdwsvc.exe, Should columnstore object pool be included in filtered dump= 0
+(15F8:39F0) 11/07/23 20:13:47, ACTION,               mpdwsvc.exe, Should columnstore blob cache be included in filtered dump= 0
+(15F8:39F0) 11/07/23 20:13:47, ACTION,               mpdwsvc.exe, Total columnstore object pool memory filtered out: 0 KB
+(15F8:39F0) 11/07/23 20:13:47, ACTION,               mpdwsvc.exe, Total columnstore blob cache filtered out: 0 KB
+(15F8:39F0) 11/07/23 20:13:47, ACTION,               mpdwsvc.exe, Total pages filtered out by bitmap: 0 KB
+(15F8:39F0) 11/07/23 20:13:47, ACTION,               mpdwsvc.exe, Total file mapped memory filtered out: 0 KB
+(15F8:39F0) 11/07/23 20:13:47, ACTION,               mpdwsvc.exe, Location of module 'dbghelp.dll' : 'C:\WINDOWS\SYSTEM32\dbghelp.dll'
+(15F8:39F0) 11/07/23 20:13:47, ACTION,               mpdwsvc.exe, File version of module 'C:\WINDOWS\SYSTEM32\dbghelp.dll' : '6.2:22621.2506'
+(15F8:39F0) 11/07/23 20:13:47, ACTION,               mpdwsvc.exe, Product version of module 'C:\WINDOWS\SYSTEM32\dbghelp.dll' : '10.0:22621.2506'
+(15F8:39F0) 11/07/23 20:13:47, ACTION,               mpdwsvc.exe, Location of module 'sqldumper.exe' : 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE'
+(15F8:39F0) 11/07/23 20:13:47, ACTION,               mpdwsvc.exe, File version of module 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE' : '2019.150:2000.5'
+(15F8:39F0) 11/07/23 20:13:47, ACTION,               mpdwsvc.exe, Product version of module 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE' : '15.0:2000.5'
+(15F8:39F0) 11/07/23 20:13:47, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(15F8:39F0) 11/07/23 20:13:47, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(15F8:39F0) 11/07/23 20:13:47, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(15F8:39F0) 11/07/23 20:13:47, ACTION,               mpdwsvc.exe, Creating WER report...
+(15F8:39F0) 11/07/23 20:13:47, ACTION,               mpdwsvc.exe, Created the report.
+(15F8:39F0) 11/07/23 20:13:47, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(15F8:39F0) 11/07/23 20:13:47, ACTION,               mpdwsvc.exe, Submitting WER report...
+(15F8:39F0) 11/07/23 20:14:00, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(1BE4:4FC8) 11/07/23 20:14:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(1BE4:4FC8) 11/07/23 20:14:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(1BE4:4FC8) 11/07/23 20:14:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 24396
+(1BE4:4FC8) 11/07/23 20:14:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(1BE4:4FC8) 11/07/23 20:14:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(1BE4:4FC8) 11/07/23 20:14:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF73FC5B360
+(1BE4:4FC8) 11/07/23 20:14:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(1BE4:4FC8) 11/07/23 20:14:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 24396
+(1BE4:4FC8) 11/07/23 20:14:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(1BE4:4FC8) 11/07/23 20:14:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(1BE4:4FC8) 11/07/23 20:14:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(1BE4:4FC8) 11/07/23 20:14:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF73FC5B360
+(1BE4:4FC8) 11/07/23 20:14:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(1BE4:4FC8) 11/07/23 20:14:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(1BE4:4FC8) 11/07/23 20:14:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(1BE4:4FC8) 11/07/23 20:14:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(1BE4:4FC8) 11/07/23 20:14:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(1BE4:4FC8) 11/07/23 20:14:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(1BE4:4FC8) 11/07/23 20:14:15, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(1BE4:4FC8) 11/07/23 20:14:15, ERROR ,               mpdwsvc.exe, String at 000001B00446DDC0 was not NULL terminated
+(1BE4:4FC8) 11/07/23 20:14:15, ACTION,               mpdwsvc.exe, Not creating an additional dump, because dump for stack signature 00000000DDF8FFC4 already exists.
+(1BE4:4FC8) 11/07/23 20:14:15, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(1BE4:4FC8) 11/07/23 20:14:15, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(1BE4:4FC8) 11/07/23 20:14:15, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(1BE4:4FC8) 11/07/23 20:14:15, ACTION,               mpdwsvc.exe, Creating WER report...
+(1BE4:4FC8) 11/07/23 20:14:15, ACTION,               mpdwsvc.exe, Created the report.
+(1BE4:4FC8) 11/07/23 20:14:15, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(1BE4:4FC8) 11/07/23 20:14:15, ACTION,               mpdwsvc.exe, Submitting WER report...
+(1BE4:4FC8) 11/07/23 20:14:26, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(2EB0:60B4) 11/07/23 20:14:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(2EB0:60B4) 11/07/23 20:14:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(2EB0:60B4) 11/07/23 20:14:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 24396
+(2EB0:60B4) 11/07/23 20:14:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(2EB0:60B4) 11/07/23 20:14:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(2EB0:60B4) 11/07/23 20:14:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF73FC5B360
+(2EB0:60B4) 11/07/23 20:14:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(2EB0:60B4) 11/07/23 20:14:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 24396
+(2EB0:60B4) 11/07/23 20:14:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(2EB0:60B4) 11/07/23 20:14:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(2EB0:60B4) 11/07/23 20:14:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(2EB0:60B4) 11/07/23 20:14:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF73FC5B360
+(2EB0:60B4) 11/07/23 20:14:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(2EB0:60B4) 11/07/23 20:14:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(2EB0:60B4) 11/07/23 20:14:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(2EB0:60B4) 11/07/23 20:14:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(2EB0:60B4) 11/07/23 20:14:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(2EB0:60B4) 11/07/23 20:14:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(2EB0:60B4) 11/07/23 20:14:41, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(2EB0:60B4) 11/07/23 20:14:41, ACTION,               mpdwsvc.exe, Not creating an additional dump, because dump for stack signature 00000000DDF8FFC4 already exists.
+(2EB0:60B4) 11/07/23 20:14:41, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(2EB0:60B4) 11/07/23 20:14:41, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(2EB0:60B4) 11/07/23 20:14:41, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(2EB0:60B4) 11/07/23 20:14:41, ACTION,               mpdwsvc.exe, Creating WER report...
+(2EB0:60B4) 11/07/23 20:14:41, ACTION,               mpdwsvc.exe, Created the report.
+(2EB0:60B4) 11/07/23 20:14:41, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(2EB0:60B4) 11/07/23 20:14:41, ACTION,               mpdwsvc.exe, Submitting WER report...
+(2EB0:60B4) 11/07/23 20:14:44, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(5EC8:3E2C) 11/07/23 20:24:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(5EC8:3E2C) 11/07/23 20:24:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(5EC8:3E2C) 11/07/23 20:24:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 20972
+(5EC8:3E2C) 11/07/23 20:24:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(5EC8:3E2C) 11/07/23 20:24:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(5EC8:3E2C) 11/07/23 20:24:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF73FC5B360
+(5EC8:3E2C) 11/07/23 20:24:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(5EC8:3E2C) 11/07/23 20:24:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 20972
+(5EC8:3E2C) 11/07/23 20:24:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(5EC8:3E2C) 11/07/23 20:24:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(5EC8:3E2C) 11/07/23 20:24:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(5EC8:3E2C) 11/07/23 20:24:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF73FC5B360
+(5EC8:3E2C) 11/07/23 20:24:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(5EC8:3E2C) 11/07/23 20:24:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(5EC8:3E2C) 11/07/23 20:24:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(5EC8:3E2C) 11/07/23 20:24:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(5EC8:3E2C) 11/07/23 20:24:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(5EC8:3E2C) 11/07/23 20:24:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(5EC8:3E2C) 11/07/23 20:24:49, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(5EC8:3E2C) 11/07/23 20:24:49, ERROR ,               mpdwsvc.exe, String at 000002AF04261FE0 was not NULL terminated
+(5EC8:3E2C) 11/07/23 20:24:49, ACTION,               mpdwsvc.exe, Remote process didn't specify a dump file name
+(5EC8:3E2C) 11/07/23 20:24:49, ACTION,               mpdwsvc.exe, MINIDUMP_TYPE: 0x21966
+(5EC8:3E2C) 11/07/23 20:24:49, ACTION,               mpdwsvc.exe, Callback type 16 not used
+(5EC8:3E2C) 11/07/23 20:24:49, ACTION,               mpdwsvc.exe, Callback type 17 not used
+(5EC8:3E2C) 11/07/23 20:24:49, ACTION,               mpdwsvc.exe, Callback type 11 not used
+(5EC8:3E2C) 11/07/23 20:24:49, ACTION,               mpdwsvc.exe, Callback type 15 not used
+(5EC8:3E2C) 11/07/23 20:24:50, ACTION,               mpdwsvc.exe, Callback type 7 not used
+(5EC8:3E2C) 11/07/23 20:24:50, ACTION,               mpdwsvc.exe, MiniDump completed: C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Log\Polybase\dump\SQLDmpr.00000001D7739594.GMT-2023-11-07-15-00-00.dmp
+(5EC8:3E2C) 11/07/23 20:24:50, ACTION,               mpdwsvc.exe, Total Buffer pool data pages filtered out: 0 KB
+(5EC8:3E2C) 11/07/23 20:24:50, ACTION,               mpdwsvc.exe, Total Hekaton data pages filtered out: 0 KB
+(5EC8:3E2C) 11/07/23 20:24:50, ACTION,               mpdwsvc.exe, Total Free memory (from non top level allocators) filtered out: 0 KB
+(5EC8:3E2C) 11/07/23 20:24:50, ACTION,               mpdwsvc.exe, Total top level free memory filtered out: 0 KB
+(5EC8:3E2C) 11/07/23 20:24:50, ACTION,               mpdwsvc.exe, Total Log pool memory filtered out: 0 KB
+(5EC8:3E2C) 11/07/23 20:24:50, ACTION,               mpdwsvc.exe, Should columnstore object pool be included in filtered dump= 0
+(5EC8:3E2C) 11/07/23 20:24:50, ACTION,               mpdwsvc.exe, Should columnstore blob cache be included in filtered dump= 0
+(5EC8:3E2C) 11/07/23 20:24:50, ACTION,               mpdwsvc.exe, Total columnstore object pool memory filtered out: 0 KB
+(5EC8:3E2C) 11/07/23 20:24:50, ACTION,               mpdwsvc.exe, Total columnstore blob cache filtered out: 0 KB
+(5EC8:3E2C) 11/07/23 20:24:50, ACTION,               mpdwsvc.exe, Total pages filtered out by bitmap: 0 KB
+(5EC8:3E2C) 11/07/23 20:24:50, ACTION,               mpdwsvc.exe, Total file mapped memory filtered out: 0 KB
+(5EC8:3E2C) 11/07/23 20:24:50, ACTION,               mpdwsvc.exe, Location of module 'dbghelp.dll' : 'C:\WINDOWS\SYSTEM32\dbghelp.dll'
+(5EC8:3E2C) 11/07/23 20:24:50, ACTION,               mpdwsvc.exe, File version of module 'C:\WINDOWS\SYSTEM32\dbghelp.dll' : '6.2:22621.2506'
+(5EC8:3E2C) 11/07/23 20:24:50, ACTION,               mpdwsvc.exe, Product version of module 'C:\WINDOWS\SYSTEM32\dbghelp.dll' : '10.0:22621.2506'
+(5EC8:3E2C) 11/07/23 20:24:50, ACTION,               mpdwsvc.exe, Location of module 'sqldumper.exe' : 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE'
+(5EC8:3E2C) 11/07/23 20:24:50, ACTION,               mpdwsvc.exe, File version of module 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE' : '2019.150:2000.5'
+(5EC8:3E2C) 11/07/23 20:24:50, ACTION,               mpdwsvc.exe, Product version of module 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE' : '15.0:2000.5'
+(5EC8:3E2C) 11/07/23 20:24:50, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(5EC8:3E2C) 11/07/23 20:24:50, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(5EC8:3E2C) 11/07/23 20:24:50, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(5EC8:3E2C) 11/07/23 20:24:50, ACTION,               mpdwsvc.exe, Creating WER report...
+(5EC8:3E2C) 11/07/23 20:24:50, ACTION,               mpdwsvc.exe, Created the report.
+(5EC8:3E2C) 11/07/23 20:24:50, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(5EC8:3E2C) 11/07/23 20:24:50, ACTION,               mpdwsvc.exe, Submitting WER report...
+(5EC8:3E2C) 11/07/23 20:25:01, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(5AF8:4FC8) 11/07/23 20:25:16, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(5AF8:4FC8) 11/07/23 20:25:16, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(5AF8:4FC8) 11/07/23 20:25:16, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 20972
+(5AF8:4FC8) 11/07/23 20:25:16, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(5AF8:4FC8) 11/07/23 20:25:16, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(5AF8:4FC8) 11/07/23 20:25:16, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF73FC5B360
+(5AF8:4FC8) 11/07/23 20:25:16, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(5AF8:4FC8) 11/07/23 20:25:16, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 20972
+(5AF8:4FC8) 11/07/23 20:25:16, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(5AF8:4FC8) 11/07/23 20:25:16, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(5AF8:4FC8) 11/07/23 20:25:16, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(5AF8:4FC8) 11/07/23 20:25:16, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF73FC5B360
+(5AF8:4FC8) 11/07/23 20:25:16, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(5AF8:4FC8) 11/07/23 20:25:16, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(5AF8:4FC8) 11/07/23 20:25:16, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(5AF8:4FC8) 11/07/23 20:25:16, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(5AF8:4FC8) 11/07/23 20:25:16, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(5AF8:4FC8) 11/07/23 20:25:16, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(5AF8:4FC8) 11/07/23 20:25:16, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(5AF8:4FC8) 11/07/23 20:25:16, ERROR ,               mpdwsvc.exe, String at 000002AF03205F20 was not NULL terminated
+(5AF8:4FC8) 11/07/23 20:25:16, ACTION,               mpdwsvc.exe, Not creating an additional dump, because dump for stack signature 00000001D7739594 already exists.
+(5AF8:4FC8) 11/07/23 20:25:16, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(5AF8:4FC8) 11/07/23 20:25:16, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(5AF8:4FC8) 11/07/23 20:25:16, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(5AF8:4FC8) 11/07/23 20:25:16, ACTION,               mpdwsvc.exe, Creating WER report...
+(5AF8:4FC8) 11/07/23 20:25:16, ACTION,               mpdwsvc.exe, Created the report.
+(5AF8:4FC8) 11/07/23 20:25:16, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(5AF8:4FC8) 11/07/23 20:25:16, ACTION,               mpdwsvc.exe, Submitting WER report...
+(5AF8:4FC8) 11/07/23 20:25:28, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(5BD0:41B0) 11/07/23 20:25:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(5BD0:41B0) 11/07/23 20:25:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(5BD0:41B0) 11/07/23 20:25:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 20972
+(5BD0:41B0) 11/07/23 20:25:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(5BD0:41B0) 11/07/23 20:25:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(5BD0:41B0) 11/07/23 20:25:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF73FC5B360
+(5BD0:41B0) 11/07/23 20:25:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(5BD0:41B0) 11/07/23 20:25:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 20972
+(5BD0:41B0) 11/07/23 20:25:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(5BD0:41B0) 11/07/23 20:25:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(5BD0:41B0) 11/07/23 20:25:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(5BD0:41B0) 11/07/23 20:25:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF73FC5B360
+(5BD0:41B0) 11/07/23 20:25:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(5BD0:41B0) 11/07/23 20:25:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(5BD0:41B0) 11/07/23 20:25:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(5BD0:41B0) 11/07/23 20:25:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(5BD0:41B0) 11/07/23 20:25:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(5BD0:41B0) 11/07/23 20:25:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(5BD0:41B0) 11/07/23 20:25:43, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(5BD0:41B0) 11/07/23 20:25:43, ACTION,               mpdwsvc.exe, Not creating an additional dump, because dump for stack signature 00000001D7739594 already exists.
+(5BD0:41B0) 11/07/23 20:25:43, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(5BD0:41B0) 11/07/23 20:25:43, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(5BD0:41B0) 11/07/23 20:25:43, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(5BD0:41B0) 11/07/23 20:25:43, ACTION,               mpdwsvc.exe, Creating WER report...
+(5BD0:41B0) 11/07/23 20:25:43, ACTION,               mpdwsvc.exe, Created the report.
+(5BD0:41B0) 11/07/23 20:25:43, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(5BD0:41B0) 11/07/23 20:25:43, ACTION,               mpdwsvc.exe, Submitting WER report...
+(5BD0:41B0) 11/07/23 20:25:46, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(5788:5A6C) 11/07/23 20:35:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(5788:5A6C) 11/07/23 20:35:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(5788:5A6C) 11/07/23 20:35:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 5052
+(5788:5A6C) 11/07/23 20:35:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(5788:5A6C) 11/07/23 20:35:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(5788:5A6C) 11/07/23 20:35:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF73FC5B360
+(5788:5A6C) 11/07/23 20:35:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(5788:5A6C) 11/07/23 20:35:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 5052
+(5788:5A6C) 11/07/23 20:35:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(5788:5A6C) 11/07/23 20:35:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(5788:5A6C) 11/07/23 20:35:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(5788:5A6C) 11/07/23 20:35:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF73FC5B360
+(5788:5A6C) 11/07/23 20:35:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(5788:5A6C) 11/07/23 20:35:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(5788:5A6C) 11/07/23 20:35:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(5788:5A6C) 11/07/23 20:35:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(5788:5A6C) 11/07/23 20:35:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(5788:5A6C) 11/07/23 20:35:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(5788:5A6C) 11/07/23 20:35:53, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(5788:5A6C) 11/07/23 20:35:53, ERROR ,               mpdwsvc.exe, String at 000001C082CF6E50 was not NULL terminated
+(5788:5A6C) 11/07/23 20:35:53, ACTION,               mpdwsvc.exe, Remote process didn't specify a dump file name
+(5788:5A6C) 11/07/23 20:35:53, ACTION,               mpdwsvc.exe, MINIDUMP_TYPE: 0x21966
+(5788:5A6C) 11/07/23 20:35:53, ACTION,               mpdwsvc.exe, Callback type 16 not used
+(5788:5A6C) 11/07/23 20:35:53, ACTION,               mpdwsvc.exe, Callback type 17 not used
+(5788:5A6C) 11/07/23 20:35:53, ACTION,               mpdwsvc.exe, Callback type 11 not used
+(5788:5A6C) 11/07/23 20:35:53, ACTION,               mpdwsvc.exe, Callback type 15 not used
+(5788:5A6C) 11/07/23 20:35:53, ACTION,               mpdwsvc.exe, Callback type 7 not used
+(5788:5A6C) 11/07/23 20:35:53, ACTION,               mpdwsvc.exe, MiniDump completed: C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Log\Polybase\dump\SQLDmpr.000000019161D6B0.GMT-2023-11-07-15-00-00.dmp
+(5788:5A6C) 11/07/23 20:35:53, ACTION,               mpdwsvc.exe, Total Buffer pool data pages filtered out: 0 KB
+(5788:5A6C) 11/07/23 20:35:53, ACTION,               mpdwsvc.exe, Total Hekaton data pages filtered out: 0 KB
+(5788:5A6C) 11/07/23 20:35:53, ACTION,               mpdwsvc.exe, Total Free memory (from non top level allocators) filtered out: 0 KB
+(5788:5A6C) 11/07/23 20:35:53, ACTION,               mpdwsvc.exe, Total top level free memory filtered out: 0 KB
+(5788:5A6C) 11/07/23 20:35:53, ACTION,               mpdwsvc.exe, Total Log pool memory filtered out: 0 KB
+(5788:5A6C) 11/07/23 20:35:53, ACTION,               mpdwsvc.exe, Should columnstore object pool be included in filtered dump= 0
+(5788:5A6C) 11/07/23 20:35:53, ACTION,               mpdwsvc.exe, Should columnstore blob cache be included in filtered dump= 0
+(5788:5A6C) 11/07/23 20:35:53, ACTION,               mpdwsvc.exe, Total columnstore object pool memory filtered out: 0 KB
+(5788:5A6C) 11/07/23 20:35:53, ACTION,               mpdwsvc.exe, Total columnstore blob cache filtered out: 0 KB
+(5788:5A6C) 11/07/23 20:35:53, ACTION,               mpdwsvc.exe, Total pages filtered out by bitmap: 0 KB
+(5788:5A6C) 11/07/23 20:35:53, ACTION,               mpdwsvc.exe, Total file mapped memory filtered out: 0 KB
+(5788:5A6C) 11/07/23 20:35:53, ACTION,               mpdwsvc.exe, Location of module 'dbghelp.dll' : 'C:\WINDOWS\SYSTEM32\dbghelp.dll'
+(5788:5A6C) 11/07/23 20:35:53, ACTION,               mpdwsvc.exe, File version of module 'C:\WINDOWS\SYSTEM32\dbghelp.dll' : '6.2:22621.2506'
+(5788:5A6C) 11/07/23 20:35:53, ACTION,               mpdwsvc.exe, Product version of module 'C:\WINDOWS\SYSTEM32\dbghelp.dll' : '10.0:22621.2506'
+(5788:5A6C) 11/07/23 20:35:53, ACTION,               mpdwsvc.exe, Location of module 'sqldumper.exe' : 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE'
+(5788:5A6C) 11/07/23 20:35:53, ACTION,               mpdwsvc.exe, File version of module 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE' : '2019.150:2000.5'
+(5788:5A6C) 11/07/23 20:35:53, ACTION,               mpdwsvc.exe, Product version of module 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER2019\MSSQL\Binn\Polybase\SQLDUMPER.EXE' : '15.0:2000.5'
+(5788:5A6C) 11/07/23 20:35:53, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(5788:5A6C) 11/07/23 20:35:53, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(5788:5A6C) 11/07/23 20:35:53, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(5788:5A6C) 11/07/23 20:35:53, ACTION,               mpdwsvc.exe, Creating WER report...
+(5788:5A6C) 11/07/23 20:35:53, ACTION,               mpdwsvc.exe, Created the report.
+(5788:5A6C) 11/07/23 20:35:53, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(5788:5A6C) 11/07/23 20:35:53, ACTION,               mpdwsvc.exe, Submitting WER report...
+(5788:5A6C) 11/07/23 20:36:06, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(2F2C:6260) 11/07/23 20:36:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(2F2C:6260) 11/07/23 20:36:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(2F2C:6260) 11/07/23 20:36:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 5052
+(2F2C:6260) 11/07/23 20:36:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(2F2C:6260) 11/07/23 20:36:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(2F2C:6260) 11/07/23 20:36:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF73FC5B360
+(2F2C:6260) 11/07/23 20:36:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(2F2C:6260) 11/07/23 20:36:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 5052
+(2F2C:6260) 11/07/23 20:36:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(2F2C:6260) 11/07/23 20:36:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(2F2C:6260) 11/07/23 20:36:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(2F2C:6260) 11/07/23 20:36:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF73FC5B360
+(2F2C:6260) 11/07/23 20:36:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(2F2C:6260) 11/07/23 20:36:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(2F2C:6260) 11/07/23 20:36:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(2F2C:6260) 11/07/23 20:36:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(2F2C:6260) 11/07/23 20:36:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(2F2C:6260) 11/07/23 20:36:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(2F2C:6260) 11/07/23 20:36:20, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(2F2C:6260) 11/07/23 20:36:20, ERROR ,               mpdwsvc.exe, String at 000001C081B3AEC0 was not NULL terminated
+(2F2C:6260) 11/07/23 20:36:20, ACTION,               mpdwsvc.exe, Not creating an additional dump, because dump for stack signature 000000019161D6B0 already exists.
+(2F2C:6260) 11/07/23 20:36:20, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(2F2C:6260) 11/07/23 20:36:20, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(2F2C:6260) 11/07/23 20:36:20, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(2F2C:6260) 11/07/23 20:36:20, ACTION,               mpdwsvc.exe, Creating WER report...
+(2F2C:6260) 11/07/23 20:36:20, ACTION,               mpdwsvc.exe, Created the report.
+(2F2C:6260) 11/07/23 20:36:20, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(2F2C:6260) 11/07/23 20:36:20, ACTION,               mpdwsvc.exe, Submitting WER report...
+(2F2C:6260) 11/07/23 20:36:37, ACTION,               mpdwsvc.exe, Submitted report synchronously.
+(38C0:54C) 11/07/23 20:36:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, AdjustTokenPrivileges () completed with status (00000514)
+(38C0:54C) 11/07/23 20:36:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Input parameters: 4 supplied
+(38C0:54C) 11/07/23 20:36:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 1: 5052
+(38C0:54C) 11/07/23 20:36:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 2: 0
+(38C0:54C) 11/07/23 20:36:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 3: 0:0
+(38C0:54C) 11/07/23 20:36:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, 	Parameter 4: 00007FF73FC5B360
+(38C0:54C) 11/07/23 20:36:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE, Parsed parameters:
+(38C0:54C) 11/07/23 20:36:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ProcessID = 5052
+(38C0:54C) 11/07/23 20:36:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ThreadId = 0
+(38C0:54C) 11/07/23 20:36:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     Flags = 0x0
+(38C0:54C) 11/07/23 20:36:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     MiniDumpFlags = 0x0
+(38C0:54C) 11/07/23 20:36:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     SqlInfoPtr = 0x00007FF73FC5B360
+(38C0:54C) 11/07/23 20:36:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     DumpDir = <NULL>
+(38C0:54C) 11/07/23 20:36:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExceptionRecordPtr = 0x0000000000000000
+(38C0:54C) 11/07/23 20:36:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ContextPtr = 0x0000000000000000
+(38C0:54C) 11/07/23 20:36:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ExtraFile = <NULL>
+(38C0:54C) 11/07/23 20:36:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     PatternForExtraFiles = <NULL>
+(38C0:54C) 11/07/23 20:36:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     InstanceName = <NULL>
+(38C0:54C) 11/07/23 20:36:51, ACTION, SQLDUMPER_UNKNOWN_APP.EXE,     ServiceName = <NULL>
+(38C0:54C) 11/07/23 20:36:51, ACTION,               mpdwsvc.exe, Not creating an additional dump, because dump for stack signature 000000019161D6B0 already exists.
+(38C0:54C) 11/07/23 20:36:51, ACTION,               mpdwsvc.exe, Send_To_Watson flag is set to true
+(38C0:54C) 11/07/23 20:36:51, ACTION,               mpdwsvc.exe, Force_Watson flag is set to true
+(38C0:54C) 11/07/23 20:36:51, ACTION,               mpdwsvc.exe, Watson Invoke: Yes
+(38C0:54C) 11/07/23 20:36:51, ACTION,               mpdwsvc.exe, Creating WER report...
+(38C0:54C) 11/07/23 20:36:51, ACTION,               mpdwsvc.exe, Created the report.
+(38C0:54C) 11/07/23 20:36:51, ACTION,               mpdwsvc.exe, WerReportAddFile Mini Dump succeeded.
+(38C0:54C) 11/07/23 20:36:51, ACTION,               mpdwsvc.exe, Submitting WER report...
+(38C0:54C) 11/07/23 20:36:55, ACTION,               mpdwsvc.exe, Submitted report synchronously.
